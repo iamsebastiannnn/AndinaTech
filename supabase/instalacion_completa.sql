@@ -208,6 +208,9 @@ values ('product-images', 'product-images', true)
 on conflict (id) do update
   set public = true;
 
+grant select, insert, update on table public.categories to service_role;
+grant select, insert, update on table public.products to service_role;
+
 insert into public.categories (name, slug, description, sort_order)
 values
   ('Computadores', 'computadores', 'Portátiles, todo en uno, tabletas y lectores.', 1),

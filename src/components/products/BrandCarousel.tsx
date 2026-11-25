@@ -1,36 +1,28 @@
 import { Image } from 'expo-image';
 import { useEffect, useMemo, useState } from 'react';
-import { Animated, Easing, Platform, StyleSheet, Text, View } from 'react-native';
+import { Animated, Easing, Platform, StyleSheet, View } from 'react-native';
 
-import { getBrandLogo } from '@/config/brands';
+import { getBrandLogo, type BrandLogo } from '@/config/brands';
 import { useBreakpoint } from '@/hooks/useBreakpoint';
-import { colors, fonts, radius } from '@/theme';
+import { colors, radius } from '@/theme';
 
 const PAUSE_MS = 1700;
 const SLIDE_MS = 650;
 const LOGO_HEIGHT = 30;
-const BRAND_GRAY = '#7A8286';
 const useNativeDriver = Platform.OS !== 'web';
 
-function BrandMark({ name, slot }: { name: string; slot: number }) {
-  const logo = getBrandLogo(name);
+function BrandMark({ logo, slot }: { logo: BrandLogo; slot: number }) {
   const maxWidth = slot - 44;
   return (
     <View style={[styles.slot, { width: slot }]}>
-      {logo ? (
-        <Image
-          source={logo.source}
-          style={{
-            width: Math.min(maxWidth, LOGO_HEIGHT * logo.ratio),
-            height: Math.min(LOGO_HEIGHT, maxWidth / logo.ratio),
-          }}
-          contentFit="contain"
-        />
-      ) : (
-        <Text style={styles.wordmark} numberOfLines={1} adjustsFontSizeToFit>
-          {name}
-        </Text>
-      )}
+      <Image
+        source={logo.source}
+        style={{
+          width: Math.min(maxWidth, LOGO_HEIGHT * logo.ratio),
+          height: Math.min(LOGO_HEIGHT, maxWidth / logo.ratio),
+        }}
+        contentFit="contain"
+      />
     </View>
   );
 }
@@ -38,9 +30,16 @@ function BrandMark({ name, slot }: { name: string; slot: number }) {
 export function BrandCarousel({ brands }: { brands: string[] }) {
   const { isDesktop, width } = useBreakpoint();
   const slot = isDesktop ? 190 : 140;
-  const count = brands.length;
+  const marks = useMemo(
+    () =>
+      brands
+        .map((name) => ({ name, logo: getBrandLogo(name) }))
+        .filter((mark): mark is { name: string; logo: BrandLogo } => mark.logo !== undefined),
+    [brands],
+  );
+  const count = marks.length;
   const copies = Math.max(2, Math.ceil(width / Math.max(1, count * slot)) + 1);
-  const track = useMemo(() => Array.from({ length: copies }, () => brands).flat(), [brands, copies]);
+  const track = useMemo(() => Array.from({ length: copies }, () => marks).flat(), [marks, copies]);
   const start = -count * slot;
   const [offset] = useState(() => new Animated.Value(start));
 
@@ -83,11 +82,11 @@ export function BrandCarousel({ brands }: { brands: string[] }) {
       style={styles.viewport}
       accessible
       accessibilityRole="image"
-      accessibilityLabel={`Marcas presentes en el catálogo: ${brands.join(', ')}`}
+      accessibilityLabel={`Marcas presentes en el catálogo: ${marks.map((mark) => mark.name).join(', ')}`}
     >
       <Animated.View style={[styles.track, { width: track.length * slot, transform: [{ translateX: offset }] }]}>
-        {track.map((name, index) => (
-          <BrandMark key={`${name}-${index}`} name={name} slot={slot} />
+        {track.map((mark, index) => (
+          <BrandMark key={`${mark.name}-${index}`} logo={mark.logo} slot={slot} />
         ))}
       </Animated.View>
     </View>
@@ -103,5 +102,4 @@ const styles = StyleSheet.create({
   },
   track: { flexDirection: 'row', alignItems: 'center' },
   slot: { height: 44, alignItems: 'center', justifyContent: 'center', paddingHorizontal: 22 },
-  wordmark: { fontFamily: fonts.display, fontSize: 21, letterSpacing: -0.4, color: BRAND_GRAY },
 });
