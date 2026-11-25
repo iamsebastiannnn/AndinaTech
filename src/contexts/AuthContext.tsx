@@ -3,6 +3,7 @@ import { createContext, useCallback, useContext, useEffect, useMemo, useState, t
 
 import { supabase } from '@/lib/supabase';
 import * as authService from '@/services/auth';
+import { listenForSignInLinks } from '@/services/oauth';
 import type { AuthStatus, SessionUser } from '@/types';
 import { toAuthError } from '@/utils/errors';
 
@@ -38,6 +39,11 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       setIsRestoring(false);
     });
     return () => data.subscription.unsubscribe();
+  }, []);
+
+  useEffect(() => {
+    if (!supabase) return;
+    return listenForSignInLinks();
   }, []);
 
   const signIn = useCallback(async (email: string, password: string) => {

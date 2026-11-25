@@ -66,6 +66,41 @@ export function readSocialErrorFromLocation(): string | null {
   return describeSocialError(code, params.get('error_description'));
 }
 
+let lastHandledUrl: string | null = null;
+
+export async function completeSignInFromUrl(url: string): Promise<boolean> {
+  const params = readParams(url);
+  const failure = params.get('error') ?? params.get('error_code');
+  if (failure) throw new AppError(describeSocialError(failure, params.get('error_description')));
+
+  const code = params.get('code');
+  const accessToken = params.get('access_token');
+  const refreshToken = params.get('refresh_token');
+  if (!code && !(accessToken && refreshToken)) return false;
+  if (lastHandledUrl === url) return true;
+  lastHandledUrl = url;
+
+  const client = requireSupabase();
+  if (code) {
+    const exchange = await client.auth.exchangeCodeForSession(code);
+    if (exchange.error) throw exchange.error;
+  } else if (accessToken && refreshToken) {
+    const session = await client.auth.setSession({ access_token: accessToken, refresh_token: refreshToken });
+    if (session.error) throw session.error;
+  }
+  return true;
+}
+
+export function listenForSignInLinks(): () => void {
+  if (isWeb) return () => {};
+  const handle = (url: string | null) => {
+    if (url) completeSignInFromUrl(url).catch(() => {});
+  };
+  Linking.getInitialURL().then(handle).catch(() => {});
+  const subscription = Linking.addEventListener('url', (event) => handle(event.url));
+  return () => subscription.remove();
+}
+
 export async function signInWithGoogle(): Promise<SocialResult> {
   const client = requireSupabase();
   const queryParams = { prompt: 'select_account' };
@@ -90,23 +125,12 @@ export async function signInWithGoogle(): Promise<SocialResult> {
   }
 
   const result = await WebBrowser.openAuthSessionAsync(data.url, redirectTo);
-  if (result.type !== 'success') return 'cancelled';
-
-  const params = readParams(result.url);
-  const failure = params.get('error') ?? params.get('error_code');
-  if (failure) throw new AppError(describeSocialError(failure, params.get('error_description')));
-
-  const code = params.get('code');
-  const accessToken = params.get('access_token');
-  const refreshToken = params.get('refresh_token');
-  if (code) {
-    const exchange = await client.auth.exchangeCodeForSession(code);
-    if (exchange.error) throw exchange.error;
-  } else if (accessToken && refreshToken) {
-    const session = await client.auth.setSession({ access_token: accessToken, refresh_token: refreshToken });
-    if (session.error) throw session.error;
-  } else {
-    throw new AppError('No pudimos completar el acceso con Google. Inténtalo de nuevo.');
+  if (result.type !== 'success') {
+    const { data: current } = await client.auth.getSession();
+    return current.session ? 'signed-in' : 'cancelled';
   }
+
+  const completed = await completeSignInFromUrl(result.url);
+  if (!completed) throw new AppError('No pudimos completar el acceso con Google. Inténtalo de nuevo.');
   return 'signed-in';
 }
