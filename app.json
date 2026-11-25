@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Andina Tech & Hogar",
+    "slug": "andina-tech-hogar",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0F4C5C",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro",
+      "output": "single",
+      "name": "Andina Tech & Hogar",
+      "shortName": "Andina",
+      "lang": "es",
+      "themeColor": "#0F4C5C",
+      "backgroundColor": "#F4F7F8",
+      "description": "Distribuidora colombiana de tecnología y hogar"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-status-bar",
+      "expo-image",
+      "expo-font"
+    ],
+    "scheme": "andinatech",
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
