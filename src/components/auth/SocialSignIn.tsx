@@ -1,10 +1,12 @@
 import { Image } from 'expo-image';
 import { useEffect, useRef, useState } from 'react';
-import { ActivityIndicator, Pressable, StyleSheet, Text, View } from 'react-native';
+import { ActivityIndicator, Platform, Pressable, StyleSheet, Text, View } from 'react-native';
 
 import { Notice } from '@/components/ui/Notice';
 import {
   fetchSocialProviders,
+  getReturnUrl,
+  onSocialError,
   readSocialErrorFromLocation,
   signInWithGoogle,
   type SocialProvider,
@@ -38,6 +40,8 @@ export function SocialSignIn({ mode, disabled = false }: SocialSignInProps) {
       isCurrent = false;
     };
   }, []);
+
+  useEffect(() => onSocialError(setError), []);
 
   if (!providers.includes('google')) {
     return error ? <Notice tone="error" message={error} /> : null;
@@ -92,6 +96,11 @@ export function SocialSignIn({ mode, disabled = false }: SocialSignInProps) {
         </Text>
       ) : null}
       {error ? <Notice tone="error" message={error} /> : null}
+      {__DEV__ && Platform.OS !== 'web' ? (
+        <Text style={styles.debug} selectable>
+          Dirección de retorno: {getReturnUrl()}
+        </Text>
+      ) : null}
     </View>
   );
 }
@@ -118,4 +127,5 @@ const styles = StyleSheet.create({
   mark: { width: 20, height: 20 },
   buttonText: { fontSize: 15, fontWeight: '700', color: colors.text },
   note: { ...typography.small, textAlign: 'center' },
+  debug: { ...typography.caption, textAlign: 'center' },
 });

@@ -68,6 +68,26 @@ export function readSocialErrorFromLocation(): string | null {
 
 let lastHandledUrl: string | null = null;
 
+type SocialErrorListener = (message: string) => void;
+const errorListeners = new Set<SocialErrorListener>();
+
+export function onSocialError(listener: SocialErrorListener): () => void {
+  errorListeners.add(listener);
+  return () => {
+    errorListeners.delete(listener);
+  };
+}
+
+function reportSocialError(cause: unknown) {
+  const message =
+    cause instanceof AppError ? cause.message : 'No pudimos completar el acceso con Google. Inténtalo de nuevo.';
+  errorListeners.forEach((listener) => listener(message));
+}
+
+export function getReturnUrl(): string {
+  return isWeb && typeof window !== 'undefined' ? `${window.location.origin}/login` : Linking.createURL('login');
+}
+
 export async function completeSignInFromUrl(url: string): Promise<boolean> {
   const params = readParams(url);
   const failure = params.get('error') ?? params.get('error_code');
@@ -94,7 +114,7 @@ export async function completeSignInFromUrl(url: string): Promise<boolean> {
 export function listenForSignInLinks(): () => void {
   if (isWeb) return () => {};
   const handle = (url: string | null) => {
-    if (url) completeSignInFromUrl(url).catch(() => {});
+    if (url) completeSignInFromUrl(url).catch(reportSocialError);
   };
   Linking.getInitialURL().then(handle).catch(() => {});
   const subscription = Linking.addEventListener('url', (event) => handle(event.url));
@@ -114,7 +134,7 @@ export async function signInWithGoogle(): Promise<SocialResult> {
     return 'redirecting';
   }
 
-  const redirectTo = Linking.createURL('login');
+  const redirectTo = getReturnUrl();
   const { data, error } = await client.auth.signInWithOAuth({
     provider: 'google',
     options: { redirectTo, queryParams, skipBrowserRedirect: true },
