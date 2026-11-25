@@ -1,5 +1,7 @@
-import { Component, useEffect, useRef, type ComponentRef, type ReactNode } from 'react';
-import { KeyboardAvoidingView, Platform, ScrollView, StyleSheet, View } from 'react-native';
+import { Component, useEffect, useMemo, useRef, useState, type ComponentRef, type ReactNode } from 'react';
+import { Animated, KeyboardAvoidingView, Platform, ScrollView, StyleSheet, View } from 'react-native';
+
+import { ScrollContext } from '@/contexts/ScrollContext';
 
 import { StateMessage } from '@/components/ui/StateMessage';
 import { isSupabaseConfigured, missingEnvVars } from '@/config/env';
@@ -59,12 +61,21 @@ function MissingConfiguration() {
 
 export function WorkArea({ children, footer, pathname, horizontalInsets }: WorkAreaProps) {
   const scrollRef = useRef<ComponentRef<typeof ScrollView>>(null);
+  const [scrollY] = useState(() => new Animated.Value(0));
+  const scroll = useMemo(
+    () => ({
+      scrollY,
+      scrollTo: (y: number) => scrollRef.current?.scrollTo({ y: Math.max(0, y), animated: true }),
+    }),
+    [scrollY],
+  );
 
   useEffect(() => {
     scrollRef.current?.scrollTo({ y: 0, animated: false });
   }, [pathname]);
 
   return (
+    <ScrollContext.Provider value={scroll}>
     <KeyboardAvoidingView style={styles.flex} behavior={Platform.OS === 'web' ? undefined : 'padding'}>
       <ScrollView
         ref={scrollRef}
@@ -75,6 +86,8 @@ export function WorkArea({ children, footer, pathname, horizontalInsets }: WorkA
         ]}
         keyboardShouldPersistTaps="handled"
         keyboardDismissMode="on-drag"
+        scrollEventThrottle={16}
+        onScroll={(event) => scrollY.setValue(event.nativeEvent.contentOffset.y)}
       >
         <View style={styles.page} accessibilityRole={Platform.OS === 'web' ? ('main' as never) : undefined}>
           {isSupabaseConfigured ? (
@@ -86,6 +99,7 @@ export function WorkArea({ children, footer, pathname, horizontalInsets }: WorkA
         {footer}
       </ScrollView>
     </KeyboardAvoidingView>
+    </ScrollContext.Provider>
   );
 }
 

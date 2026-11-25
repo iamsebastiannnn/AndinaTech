@@ -7,6 +7,11 @@ import { matchesQuery } from '@/utils/search';
 
 export const ALL_CATEGORIES = 'todas';
 
+export interface CategorySummary extends Category {
+  count: number;
+  cover: Product;
+}
+
 export function useCatalog() {
   const [products, setProducts] = useState<Product[]>([]);
   const [categories, setCategories] = useState<Category[]>([]);
@@ -36,14 +41,44 @@ export function useCatalog() {
     };
   }, [attempt]);
 
+  const summaries = useMemo<CategorySummary[]>(() => {
+    const result: CategorySummary[] = [];
+    for (const category of categories) {
+      const own = products.filter((product) => product.categoryId === category.id);
+      if (own.length === 0) continue;
+      const candidates = own.filter((product) => product.isFeatured && product.heroOrder === null);
+      const cover = [...(candidates.length > 0 ? candidates : own)].sort((a, b) => b.price - a.price)[0];
+      result.push({ ...category, count: own.length, cover });
+    }
+    return result;
+  }, [categories, products]);
+
+  const heroes = useMemo(
+    () =>
+      products
+        .filter((product) => product.heroOrder !== null)
+        .sort((a, b) => (a.heroOrder ?? 0) - (b.heroOrder ?? 0)),
+    [products],
+  );
+
+  const featured = useMemo(
+    () => products.filter((product) => product.isFeatured && product.heroOrder === null),
+    [products],
+  );
+
   const filtered = useMemo(
     () =>
       products.filter(
         (product) =>
           (categoryId === ALL_CATEGORIES || product.categoryId === categoryId) &&
-          matchesQuery(query, [product.name, product.description, product.categoryName]),
+          matchesQuery(query, [product.name, product.description, product.categoryName, product.brand, product.model]),
       ),
     [products, categoryId, query],
+  );
+
+  const bySlug = useCallback(
+    (slug: string) => products.filter((product) => product.categorySlug === slug),
+    [products],
   );
 
   const reload = useCallback(() => {
@@ -60,7 +95,10 @@ export function useCatalog() {
   return {
     products: filtered,
     totalProducts: products.length,
-    categories,
+    categories: summaries,
+    heroes,
+    featured,
+    bySlug,
     isLoading,
     error,
     query,

@@ -1,85 +1,64 @@
-import { Ionicons } from '@expo/vector-icons';
-import { Image } from 'expo-image';
+import { useRouter } from 'expo-router';
 import { memo, useState } from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { Animated, Platform, Pressable, StyleSheet, Text, View } from 'react-native';
 
-import { cardShadow, colors, radius, spacing } from '@/theme';
+import { cardShadow, colors, radius, spacing, typography } from '@/theme';
 import type { Product } from '@/types';
 import { formatCOP } from '@/utils/format';
 
-const LOW_STOCK = 5;
-
-function getAvailability(stock: number) {
-  if (stock <= 0) return { label: 'Agotado', color: colors.textMuted, icon: 'close-circle' as const };
-  if (stock <= LOW_STOCK) return { label: 'Últimas unidades', color: colors.warning, icon: 'alert-circle' as const };
-  return { label: 'Disponible', color: colors.success, icon: 'checkmark-circle' as const };
-}
-
-function ImageFallback() {
-  return (
-    <View style={styles.fallback} accessible accessibilityLabel="Imagen no disponible">
-      <Ionicons name="image-outline" size={30} color={colors.textDisabled} />
-      <Text style={styles.fallbackText}>Imagen no disponible</Text>
-    </View>
-  );
-}
+import { PriceBlock } from './PriceBlock';
+import { ProductPhoto } from './ProductPhoto';
 
 interface ProductCardProps {
   product: Product;
   width: number;
+  tint?: string;
 }
 
-export const ProductCard = memo(function ProductCard({ product, width }: ProductCardProps) {
-  const [imageFailed, setImageFailed] = useState(false);
-  const availability = getAvailability(product.stock);
-  const isSoldOut = product.stock <= 0;
+const useNativeDriver = Platform.OS !== 'web';
+
+export const ProductCard = memo(function ProductCard({ product, width, tint }: ProductCardProps) {
+  const router = useRouter();
+  const [zoom] = useState(() => new Animated.Value(1));
+  const soldOut = product.stock <= 0;
+
+  const animateTo = (toValue: number) =>
+    Animated.spring(zoom, { toValue, useNativeDriver, speed: 18, bounciness: 4 }).start();
 
   return (
-    <View
+    <Pressable
+      onPress={() => router.push({ pathname: '/product/[sku]', params: { sku: product.sku } })}
+      onHoverIn={() => animateTo(1.05)}
+      onHoverOut={() => animateTo(1)}
+      onPressIn={() => animateTo(0.97)}
+      onPressOut={() => animateTo(1)}
+      accessibilityRole="link"
+      accessibilityLabel={`${product.name}. ${formatCOP(product.price)}. ${soldOut ? 'Agotado' : 'Disponible'}. Ver detalle.`}
       style={[styles.card, { width }]}
-      accessible
-      accessibilityLabel={`${product.name}. ${product.categoryName}. ${formatCOP(product.price)}. ${availability.label}.`}
     >
-      <View style={styles.imageBox}>
-        {product.imageUrl && !imageFailed ? (
-          <Image
-            source={{ uri: product.imageUrl }}
-            style={[styles.image, isSoldOut && styles.imageSoldOut]}
-            contentFit="cover"
-            transition={150}
-            onError={() => setImageFailed(true)}
-            accessibilityIgnoresInvertColors
-          />
-        ) : (
-          <ImageFallback />
-        )}
-        <View style={styles.category}>
-          <Text style={styles.categoryText} numberOfLines={1}>
-            {product.categoryName}
-          </Text>
-        </View>
+      <View style={styles.photoBox}>
+        <Animated.View style={[styles.photoInner, { transform: [{ scale: zoom }] }, soldOut && styles.soldOut]}>
+          <ProductPhoto image={product.images[0]} tint={tint} label={product.name} style={styles.photo} />
+        </Animated.View>
       </View>
-
       <View style={styles.body}>
+        <Text style={styles.brand} numberOfLines={1}>
+          {product.brand ?? product.categoryName}
+        </Text>
         <Text style={styles.name} numberOfLines={2}>
           {product.name}
         </Text>
-        <Text style={styles.description} numberOfLines={3}>
-          {product.description}
-        </Text>
         <View style={styles.footer}>
-          <Text style={styles.price} numberOfLines={1} adjustsFontSizeToFit minimumFontScale={0.8}>
-            {formatCOP(product.price)}
-          </Text>
+          <PriceBlock price={product.price} previousPrice={product.previousPrice} />
           <View style={styles.availability}>
-            <Ionicons name={availability.icon} size={14} color={availability.color} />
-            <Text style={[styles.availabilityText, { color: availability.color }]} numberOfLines={1}>
-              {availability.label}
+            <View style={[styles.dot, { backgroundColor: soldOut ? colors.textDisabled : colors.success }]} />
+            <Text style={[styles.availabilityText, soldOut && styles.availabilityOut]}>
+              {soldOut ? 'Agotado' : 'Disponible'}
             </Text>
           </View>
         </View>
       </View>
-    </View>
+    </Pressable>
   );
 });
 
@@ -87,32 +66,19 @@ const styles = StyleSheet.create({
   card: {
     backgroundColor: colors.surface,
     borderRadius: radius.lg,
-    borderWidth: 1,
-    borderColor: colors.border,
     overflow: 'hidden',
     ...cardShadow,
   },
-  imageBox: { width: '100%', aspectRatio: 4 / 3, backgroundColor: colors.surfaceMuted },
-  image: { width: '100%', height: '100%' },
-  imageSoldOut: { opacity: 0.55 },
-  fallback: { flex: 1, alignItems: 'center', justifyContent: 'center', gap: spacing.xs, padding: spacing.sm },
-  fallbackText: { fontSize: 12, color: colors.textMuted, textAlign: 'center' },
-  category: {
-    position: 'absolute',
-    left: spacing.sm,
-    top: spacing.sm,
-    maxWidth: '85%',
-    paddingHorizontal: spacing.sm,
-    paddingVertical: 3,
-    borderRadius: radius.pill,
-    backgroundColor: 'rgba(255,255,255,0.94)',
-  },
-  categoryText: { fontSize: 11, fontWeight: '700', color: colors.primary },
+  photoBox: { width: '100%', aspectRatio: 1, overflow: 'hidden', backgroundColor: colors.stage },
+  photoInner: { flex: 1 },
+  photo: { flex: 1 },
+  soldOut: { opacity: 0.5 },
   body: { flex: 1, padding: spacing.md, gap: spacing.xs },
-  name: { fontSize: 14, lineHeight: 19, minHeight: 38, fontWeight: '700', color: colors.text },
-  description: { fontSize: 12.5, lineHeight: 17, minHeight: 51, color: colors.textMuted },
-  footer: { marginTop: 'auto', paddingTop: spacing.xs, gap: 2 },
-  price: { fontSize: 17, lineHeight: 23, fontWeight: '800', color: colors.primary },
-  availability: { flexDirection: 'row', alignItems: 'center', gap: spacing.xs },
-  availabilityText: { fontSize: 12, fontWeight: '600', flexShrink: 1 },
+  brand: { ...typography.eyebrow, fontSize: 10 },
+  name: { fontSize: 13.5, lineHeight: 18, minHeight: 36, fontWeight: '600', color: colors.text },
+  footer: { marginTop: 'auto', paddingTop: spacing.xs, gap: spacing.xs },
+  availability: { flexDirection: 'row', alignItems: 'center', gap: 6 },
+  dot: { width: 7, height: 7, borderRadius: 4 },
+  availabilityText: { fontSize: 12, fontWeight: '600', color: colors.success },
+  availabilityOut: { color: colors.textMuted },
 });

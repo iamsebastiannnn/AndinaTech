@@ -46,3 +46,8 @@ supabase/.branches/
 # generated native folders
 /ios
 /android
+
+catalogo/imagenes/
+catalogo/*.log
+catalogo/respaldo-*.json
+catalogo/hoja.html

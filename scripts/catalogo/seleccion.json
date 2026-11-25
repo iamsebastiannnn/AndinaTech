@@ -1,0 +1,281 @@
+{
+  "fuente": "https://infotechonline.co",
+  "categorias": [
+    { "slug": "computadores", "nombre": "Computadores", "descripcion": "Portátiles, todo en uno, tabletas y lectores.", "orden": 1 },
+    { "slug": "celulares", "nombre": "Celulares", "descripcion": "Smartphones Samsung, Motorola y Xiaomi.", "orden": 2 },
+    { "slug": "pantallas", "nombre": "Pantallas", "descripcion": "Televisores y monitores.", "orden": 3 },
+    { "slug": "hogar-inteligente", "nombre": "Hogar inteligente", "descripcion": "Asistentes de voz, limpieza y seguridad conectada.", "orden": 4 },
+    { "slug": "gaming", "nombre": "Gaming", "descripcion": "Consolas, periféricos y sillas.", "orden": 5 },
+    { "slug": "accesorios", "nombre": "Accesorios", "descripcion": "Audio, relojes inteligentes y periféricos.", "orden": 6 }
+  ],
+  "productos": [
+    {
+      "id": 16757,
+      "categoria": "computadores",
+      "destacado": true,
+      "portada": 1,
+      "lema": "Rendimiento para el día a día",
+      "descripcion": "Portátil de 15,6\" con AMD Ryzen 5, 8 GB de RAM y SSD de 512 GB, pensado para el trabajo y el estudio diario.",
+      "principal": 2
+    },
+    {
+      "id": 17512,
+      "categoria": "computadores",
+      "descripcion": "Portátil profesional de 14\" con Core i5, 16 GB de RAM y 512 GB. Incluye USB-C, HDMI y Ethernet."
+    },
+    {
+      "id": 14920,
+      "categoria": "computadores",
+      "destacado": true,
+      "descripcion": "Portátil ligero de 14\" con Intel Core 5 120U, 8 GB de RAM y 512 GB de almacenamiento.",
+      "principal": 2
+    },
+    {
+      "id": 12425,
+      "categoria": "computadores",
+      "descripcion": "Portátil de 15,6\" con AMD Ryzen 5 7520U, 8 GB de RAM y SSD de 512 GB en color azul hielo."
+    },
+    {
+      "id": 16267,
+      "categoria": "computadores",
+      "descripcion": "Todo en uno con pantalla IPS Full HD de 23,8\" a 100 Hz, Core i5-120U, 16 GB de RAM y SSD de 512 GB."
+    },
+    {
+      "id": 16255,
+      "categoria": "computadores",
+      "descripcion": "Todo en uno de 27\" Full HD antirreflejo con Ryzen AI 7, 32 GB de RAM, 1 TB y Wi-Fi 7."
+    },
+    {
+      "id": 15342,
+      "categoria": "computadores",
+      "descripcion": "Tableta de 11\" con pantalla 2.5K, 4 GB de RAM y 128 GB para estudiar, trabajar y entretenerse."
+    },
+    {
+      "id": 12223,
+      "categoria": "computadores",
+      "destacado": true,
+      "descripcion": "Lector electrónico de 6\" con pantalla antirreflejo y 16 GB, ligero y sin distracciones."
+    },
+    {
+      "id": 17781,
+      "categoria": "celulares",
+      "destacado": true,
+      "portada": 2,
+      "lema": "Cada momento, con más detalle",
+      "descripcion": "Pantalla de 6,7\", triple cámara de 50 MP con estabilización óptica, 6 GB de RAM y 128 GB."
+    },
+    {
+      "id": 17717,
+      "categoria": "celulares",
+      "descripcion": "Pantalla de 6,7\", triple cámara de 50 MP con estabilización óptica, 8 GB de RAM y 256 GB."
+    },
+    {
+      "id": 17706,
+      "categoria": "celulares",
+      "descripcion": "Pantalla de 6,7\", cámara principal de 50 MP, 6 GB de RAM y 128 GB de almacenamiento."
+    },
+    {
+      "id": 16636,
+      "categoria": "celulares",
+      "destacado": true,
+      "descripcion": "Cámara Sony LYTIA de 50 MP con OIS, frontal de 32 MP, batería de 7000 mAh, 12 GB de RAM y 256 GB."
+    },
+    {
+      "id": 16151,
+      "categoria": "celulares",
+      "descripcion": "Cámara de 50 MP + 8 MP, frontal de 32 MP, batería de 5200 mAh, 8 GB de RAM y 256 GB."
+    },
+    {
+      "id": 17688,
+      "categoria": "celulares",
+      "descripcion": "Pantalla de 6,9\", cámara principal de 50 MP, frontal de 16 MP, 6 GB de RAM y 256 GB."
+    },
+    {
+      "id": 17192,
+      "categoria": "celulares",
+      "destacado": true,
+      "descripcion": "Triple cámara de 50 MP con teleobjetivo periscópico 5x, batería de 6500 mAh, carga de 100 W, 16 GB y 512 GB."
+    },
+    {
+      "id": 15235,
+      "categoria": "pantallas",
+      "destacado": true,
+      "portada": 3,
+      "lema": "El cine se muda a tu sala",
+      "descripcion": "Televisor de 65\" con resolución 4K y diseño delgado para una experiencia de entretenimiento envolvente.",
+      "principal": 2
+    },
+    {
+      "id": 17772,
+      "categoria": "pantallas",
+      "descripcion": "Smart TV de 43\" con resolución 4K (3840 × 2160) y sonido de 20 W."
+    },
+    {
+      "id": 17663,
+      "categoria": "pantallas",
+      "destacado": true,
+      "descripcion": "Smart TV de 55\" Mini LED 4K con sistema Tizen, Color Booster y Motion Xcelerator."
+    },
+    {
+      "id": 17967,
+      "categoria": "pantallas",
+      "descripcion": "Smart TV de 55\" Hi-QLED con escalador 4K por inteligencia artificial y sonido Dolby Atmos."
+    },
+    {
+      "id": 16727,
+      "categoria": "pantallas",
+      "descripcion": "Televisor de 65\" 4K con Google TV, HDMI 2.1, Chromecast integrado y control por voz."
+    },
+    {
+      "id": 15433,
+      "categoria": "pantallas",
+      "descripcion": "Monitor de 27\" 4K UHD con Reader Mode, Flicker Safe y Black Stabilizer."
+    },
+    {
+      "id": 16748,
+      "categoria": "pantallas",
+      "descripcion": "Monitor de 23,8\" con concentrador: HDMI, DisplayPort, USB-C, USB-A y Ethernet. Soporte ajustable."
+    },
+    {
+      "id": 13637,
+      "categoria": "pantallas",
+      "omitirAtributos": [
+        "Tamaño pantalla"
+      ],
+      "descripcion": "Monitor de 21,5\" con resolución Full HD (1920 × 1080) para trabajo o entretenimiento."
+    },
+    {
+      "id": 4421,
+      "categoria": "hogar-inteligente",
+      "destacado": true,
+      "descripcion": "Altavoz inteligente con Alexa: música, clima, noticias y control por voz del hogar."
+    },
+    {
+      "id": 17627,
+      "categoria": "hogar-inteligente",
+      "destacado": true,
+      "descripcion": "Pantalla inteligente de 8,7\" HD con Alexa para videollamadas, contenido y control del hogar."
+    },
+    {
+      "id": 17653,
+      "categoria": "hogar-inteligente",
+      "descripcion": "Pantalla inteligente de 11\" con procesador AZ3 Pro, cámara de 13 MP y audio espacial."
+    },
+    {
+      "id": 17620,
+      "categoria": "hogar-inteligente",
+      "descripcion": "Pantalla inteligente de 5,5\" con Alexa para videollamadas, calendario y multimedia."
+    },
+    {
+      "id": 17917,
+      "categoria": "hogar-inteligente",
+      "destacado": true,
+      "descripcion": "Robot aspirador con batería de 5200 mAh y hasta 180 minutos de funcionamiento en condiciones de prueba."
+    },
+    {
+      "id": 16918,
+      "categoria": "hogar-inteligente",
+      "descripcion": "Freidora de aire de 7 L y 1850 W: fríe, hornea, cocina al vapor, recalienta y deshidrata."
+    },
+    {
+      "id": 15074,
+      "categoria": "hogar-inteligente",
+      "descripcion": "Cámara de seguridad Full HD 1080p con visión nocturna para hogares y oficinas."
+    },
+    {
+      "id": 7850,
+      "categoria": "hogar-inteligente",
+      "descripcion": "Dispensador de alimento Wi-Fi con cámara y micrófono para acompañar a tu mascota a distancia."
+    },
+    {
+      "id": 18012,
+      "categoria": "gaming",
+      "destacado": true,
+      "descripcion": "Consola de 1 TB con lector Ultra HD Blu-ray y control DualSense con retroalimentación háptica."
+    },
+    {
+      "id": 15816,
+      "categoria": "gaming",
+      "destacado": true,
+      "descripcion": "Diadema con tres conexiones: LIGHTSPEED 2.4 GHz, Bluetooth y cable de 3,5 mm. Micrófono desmontable."
+    },
+    {
+      "id": 15844,
+      "categoria": "gaming",
+      "descripcion": "Diadema inalámbrica de 2.4 GHz y baja latencia con micrófono con cancelación de ruido."
+    },
+    {
+      "id": 15855,
+      "categoria": "gaming",
+      "descripcion": "Mouse inalámbrico con 2.4 GHz y Bluetooth, y hasta 100 horas de batería."
+    },
+    {
+      "id": 8660,
+      "categoria": "gaming",
+      "descripcion": "Mouse con sensor óptico de 8000 DPI, seis botones programables e iluminación RGB LIGHTSYNC."
+    },
+    {
+      "id": 15622,
+      "categoria": "gaming",
+      "descripcion": "Silla en tela con respaldo reclinable de 90° a 160° y reposabrazos 4D."
+    },
+    {
+      "id": 17724,
+      "categoria": "gaming",
+      "descripcion": "Silla con respaldo reclinable hasta 135°, cojín lumbar y almohada."
+    },
+    {
+      "id": 17833,
+      "categoria": "accesorios",
+      "destacado": true,
+      "descripcion": "Reloj con frecuencia cardíaca, oxígeno en sangre y seguimiento del sueño, en naranja atardecer."
+    },
+    {
+      "id": 17335,
+      "categoria": "accesorios",
+      "descripcion": "Reloj con llamadas Bluetooth, GNSS integrado y más de 150 modos deportivos."
+    },
+    {
+      "id": 16787,
+      "categoria": "accesorios",
+      "descripcion": "Banda inteligente ligera con estructura de aluminio y pantalla AMOLED."
+    },
+    {
+      "id": 14596,
+      "categoria": "accesorios",
+      "destacado": true,
+      "descripcion": "Audífonos True Wireless con JBL Signature Sound y JBL Spatial Sound."
+    },
+    {
+      "id": 16545,
+      "categoria": "accesorios",
+      "descripcion": "Audífonos con Bluetooth 5.4, cancelación de ruido adaptativa y hasta 11 horas por carga."
+    },
+    {
+      "id": 14564,
+      "categoria": "accesorios",
+      "descripcion": "Diadema inalámbrica con cancelación de ruido y JBL Pure Bass Sound."
+    },
+    {
+      "id": 11773,
+      "categoria": "accesorios",
+      "destacado": true,
+      "descripcion": "Parlante portátil compacto con sonido JBL Pro para llevar a todas partes."
+    },
+    {
+      "id": 14071,
+      "categoria": "accesorios",
+      "descripcion": "Parlante ultraportátil que cabe en la palma de la mano, con audio potente y claro."
+    },
+    {
+      "id": 16385,
+      "categoria": "accesorios",
+      "descripcion": "Combo inalámbrico: teclado de altura ajustable resistente a derrames y mouse contorneado."
+    },
+    {
+      "id": 17557,
+      "categoria": "accesorios",
+      "descripcion": "Batería portátil de 30.000 mAh con carga rápida USB-C de 140 W y función Pass-Through."
+    }
+  ]
+}

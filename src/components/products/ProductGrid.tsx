@@ -3,7 +3,7 @@ import { StyleSheet, View } from 'react-native';
 
 import { Skeleton } from '@/components/ui/Skeleton';
 import { useBreakpoint } from '@/hooks/useBreakpoint';
-import { cardShadow, colors, layout, radius, spacing } from '@/theme';
+import { cardShadow, colors, layout, radius, spacing, stageTints } from '@/theme';
 import type { Product } from '@/types';
 
 import { ProductCard } from './ProductCard';
@@ -56,7 +56,14 @@ export function ProductGrid({ products, loading = false }: ProductGridProps) {
     >
       {loading
         ? Array.from({ length: columns * 2 }, (_, index) => <ProductCardSkeleton key={index} width={cardWidth} />)
-        : products.map((product) => <ProductCard key={product.id} product={product} width={cardWidth} />)}
+        : products.map((product, index) => (
+            <ProductCard
+              key={product.id}
+              product={product}
+              width={cardWidth}
+              tint={stageTints[index % stageTints.length]}
+            />
+          ))}
     </View>
   );
 }
@@ -71,7 +78,7 @@ const styles = StyleSheet.create({
     overflow: 'hidden',
     ...cardShadow,
   },
-  skeletonImage: { width: '100%', aspectRatio: 4 / 3 },
+  skeletonImage: { width: '100%', aspectRatio: 1 },
   skeletonBody: { padding: spacing.md, gap: spacing.sm },
   skeletonPrice: { marginTop: spacing.sm },
 });

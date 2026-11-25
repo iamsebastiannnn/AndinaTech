@@ -24,7 +24,7 @@ export function NavBar({ items, pathname, onSelect, variant, bottomInset = 0, di
     >
       {items.map((item) => {
         const active = isNavItemActive(item, pathname);
-        const color = isBottom ? (active ? colors.primary : colors.textMuted) : colors.onPrimary;
+        const color = isBottom ? (active ? colors.ink : colors.textMuted) : active ? colors.onInk : colors.ink;
         return (
           <Pressable
             key={item.key}
@@ -88,9 +88,9 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     gap: spacing.xs + 2,
     paddingHorizontal: spacing.md,
-    borderRadius: radius.md,
+    borderRadius: radius.pill,
   },
-  horizontalItemActive: { backgroundColor: 'rgba(255,255,255,0.16)' },
+  horizontalItemActive: { backgroundColor: colors.ink },
   horizontalLabel: { fontSize: 14, fontWeight: '500' },
   pressed: { opacity: 0.7 },
 });

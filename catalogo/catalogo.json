@@ -1,0 +1,2784 @@
+{
+  "fuente": "https://infotechonline.co",
+  "consultado": "2026-11-25T16:17:37.141Z",
+  "categorias": [
+    {
+      "slug": "computadores",
+      "nombre": "Computadores",
+      "descripcion": "Portátiles, todo en uno, tabletas y lectores.",
+      "orden": 1
+    },
+    {
+      "slug": "celulares",
+      "nombre": "Celulares",
+      "descripcion": "Smartphones Samsung, Motorola y Xiaomi.",
+      "orden": 2
+    },
+    {
+      "slug": "pantallas",
+      "nombre": "Pantallas",
+      "descripcion": "Televisores y monitores.",
+      "orden": 3
+    },
+    {
+      "slug": "hogar-inteligente",
+      "nombre": "Hogar inteligente",
+      "descripcion": "Asistentes de voz, limpieza y seguridad conectada.",
+      "orden": 4
+    },
+    {
+      "slug": "gaming",
+      "nombre": "Gaming",
+      "descripcion": "Consolas, periféricos y sillas.",
+      "orden": 5
+    },
+    {
+      "slug": "accesorios",
+      "nombre": "Accesorios",
+      "descripcion": "Audio, relojes inteligentes y periféricos.",
+      "orden": 6
+    }
+  ],
+  "productos": [
+    {
+      "sku": "401145",
+      "nombre": "Computador Portátil Asus Vivobook Go 15 E1504FA 15,6\" Ryzen 5 RAM 8GB 512 GB SSD Negro",
+      "marca": "Asus",
+      "modelo": "90NB0ZR2-M07ZP0",
+      "categoria": "computadores",
+      "descripcion": "Portátil de 15,6\" con AMD Ryzen 5, 8 GB de RAM y SSD de 512 GB, pensado para el trabajo y el estudio diario.",
+      "lema": "Rendimiento para el día a día",
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        }
+      ],
+      "precio": 2475000,
+      "precioAnterior": 2900000,
+      "disponible": true,
+      "destacado": true,
+      "portada": 1,
+      "urlOrigen": "https://infotechonline.co/producto/computador-portatil-asus-vivobook-go-15-e1504fa-156-ryzen-5-ram-8gb-512-gb-ssd-negro/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "computadores/401145-computador-portatil-asus-vivobook-go-15-e1504fa-15-6-ryzen-5-2.webp",
+          "miniatura": "computadores/401145-computador-portatil-asus-vivobook-go-15-e1504fa-15-6-ryzen-5-2-min.webp",
+          "ancho": 1038,
+          "alto": 686,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/compu-1.png"
+        },
+        {
+          "archivo": "computadores/401145-computador-portatil-asus-vivobook-go-15-e1504fa-15-6-ryzen-5-1.webp",
+          "miniatura": "computadores/401145-computador-portatil-asus-vivobook-go-15-e1504fa-15-6-ryzen-5-1-min.webp",
+          "ancho": 1153,
+          "alto": 636,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/compu.png"
+        },
+        {
+          "archivo": "computadores/401145-computador-portatil-asus-vivobook-go-15-e1504fa-15-6-ryzen-5-3.webp",
+          "miniatura": "computadores/401145-computador-portatil-asus-vivobook-go-15-e1504fa-15-6-ryzen-5-3-min.webp",
+          "ancho": 1065,
+          "alto": 704,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/compu-2.png"
+        },
+        {
+          "archivo": "computadores/401145-computador-portatil-asus-vivobook-go-15-e1504fa-15-6-ryzen-5-4.webp",
+          "miniatura": "computadores/401145-computador-portatil-asus-vivobook-go-15-e1504fa-15-6-ryzen-5-4-min.webp",
+          "ancho": 977,
+          "alto": 88,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/662681-1200-auto.webp"
+        }
+      ]
+    },
+    {
+      "sku": "401151",
+      "nombre": "Computador Portátil Asus Expertbook B1403CVA Core I5 16GB 512GB Gris",
+      "marca": "Asus",
+      "modelo": "90NX0812-M0BD00",
+      "categoria": "computadores",
+      "descripcion": "Portátil profesional de 14\" con Core i5, 16 GB de RAM y 512 GB. Incluye USB-C, HDMI y Ethernet.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Gris"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "14\" pulgadas"
+        }
+      ],
+      "precio": 3910000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/computador-portatil-asus-expertbook-b1403cva-core-i5-16gb-512gb-gris/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "computadores/401151-computador-portatil-asus-expertbook-b1403cva-core-i5-16gb-51-1.webp",
+          "miniatura": "computadores/401151-computador-portatil-asus-expertbook-b1403cva-core-i5-16gb-51-1-min.webp",
+          "ancho": 1184,
+          "alto": 776,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/asus-5.png"
+        },
+        {
+          "archivo": "computadores/401151-computador-portatil-asus-expertbook-b1403cva-core-i5-16gb-51-2.webp",
+          "miniatura": "computadores/401151-computador-portatil-asus-expertbook-b1403cva-core-i5-16gb-51-2-min.webp",
+          "ancho": 997,
+          "alto": 678,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/asus-6.png"
+        },
+        {
+          "archivo": "computadores/401151-computador-portatil-asus-expertbook-b1403cva-core-i5-16gb-51-3.webp",
+          "miniatura": "computadores/401151-computador-portatil-asus-expertbook-b1403cva-core-i5-16gb-51-3-min.webp",
+          "ancho": 1119,
+          "alto": 718,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/asus-7.png"
+        }
+      ]
+    },
+    {
+      "sku": "401132",
+      "nombre": "Computador Portátil HP Omnibook 14\" Pulgadas 14-hu0050la ICore 5 RAM 8GB 512GB Plateado",
+      "marca": "Hp",
+      "modelo": "D4EU0LA#ABM",
+      "categoria": "computadores",
+      "descripcion": "Portátil ligero de 14\" con Intel Core 5 120U, 8 GB de RAM y 512 GB de almacenamiento.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Plata"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "14 Pulgadas"
+        }
+      ],
+      "precio": 3700000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": true,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/computador-portatil-hp-omnibook-14-pulgadas-14-hu0050la-icore-5-ram-8gb-512gb-plateado/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "computadores/401132-computador-portatil-hp-omnibook-14-pulgadas-14-hu0050la-icor-2.webp",
+          "miniatura": "computadores/401132-computador-portatil-hp-omnibook-14-pulgadas-14-hu0050la-icor-2-min.webp",
+          "ancho": 895,
+          "alto": 773,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/06/Computador-Portatil-HP-OmniBook-3-Intel-Core-5-120U-Core-5-120U-RAM-8-GB-512-GB-SSD-14-hu0050la-3833504_a.webp"
+        },
+        {
+          "archivo": "computadores/401132-computador-portatil-hp-omnibook-14-pulgadas-14-hu0050la-icor-1.webp",
+          "miniatura": "computadores/401132-computador-portatil-hp-omnibook-14-pulgadas-14-hu0050la-icor-1-min.webp",
+          "ancho": 936,
+          "alto": 774,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/06/Computador-Portatil-HP-OmniBook-3-Intel-Core-5-120U-Core-5-120U-RAM-8-GB-512-GB-SSD-14-hu0050la-3833504_b.webp"
+        },
+        {
+          "archivo": "computadores/401132-computador-portatil-hp-omnibook-14-pulgadas-14-hu0050la-icor-3.webp",
+          "miniatura": "computadores/401132-computador-portatil-hp-omnibook-14-pulgadas-14-hu0050la-icor-3-min.webp",
+          "ancho": 891,
+          "alto": 762,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/06/Computador-Portatil-HP-OmniBook-3-Intel-Core-5-120U-Core-5-120U-RAM-8-GB-512-GB-SSD-14-hu0050la-3833504_c.webp"
+        },
+        {
+          "archivo": "computadores/401132-computador-portatil-hp-omnibook-14-pulgadas-14-hu0050la-icor-4.webp",
+          "miniatura": "computadores/401132-computador-portatil-hp-omnibook-14-pulgadas-14-hu0050la-icor-4-min.webp",
+          "ancho": 921,
+          "alto": 86,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/06/Computador-Portatil-HP-OmniBook-3-Intel-Core-5-120U-Core-5-120U-RAM-8-GB-512-GB-SSD-14-hu0050la-3833504_e.webp"
+        }
+      ]
+    },
+    {
+      "sku": "401106",
+      "nombre": "Computador Portátil Lenovo Ideapad Slim 3 15AMN8, 82XQ0063LM, 15.6\", AMD Ryzen 5, RAM 8 GB, 512 GB SSD, azul hielo",
+      "marca": "Lenovo",
+      "modelo": "82XQ0063LM",
+      "categoria": "computadores",
+      "descripcion": "Portátil de 15,6\" con AMD Ryzen 5 7520U, 8 GB de RAM y SSD de 512 GB en color azul hielo.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "azul hielo"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "15,6 Pulgadas"
+        }
+      ],
+      "precio": 3352000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/portatil-lenovo-ideapad-slim-3-15amn8-82xq0063lm-15-6-amd-ryzen-5-ram-8-gb-512-gb-ssd-azul-hielo/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "computadores/401106-computador-portatil-lenovo-ideapad-slim-3-15amn8-82xq0063lm-1.webp",
+          "miniatura": "computadores/401106-computador-portatil-lenovo-ideapad-slim-3-15amn8-82xq0063lm-1-min.webp",
+          "ancho": 1138,
+          "alto": 878,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/01/silla-gamer-.png"
+        },
+        {
+          "archivo": "computadores/401106-computador-portatil-lenovo-ideapad-slim-3-15amn8-82xq0063lm-2.webp",
+          "miniatura": "computadores/401106-computador-portatil-lenovo-ideapad-slim-3-15amn8-82xq0063lm-2-min.webp",
+          "ancho": 996,
+          "alto": 658,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/01/543834-1200-auto-1.webp"
+        },
+        {
+          "archivo": "computadores/401106-computador-portatil-lenovo-ideapad-slim-3-15amn8-82xq0063lm-3.webp",
+          "miniatura": "computadores/401106-computador-portatil-lenovo-ideapad-slim-3-15amn8-82xq0063lm-3-min.webp",
+          "ancho": 977,
+          "alto": 878,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/01/543836-1200-auto-1.webp"
+        },
+        {
+          "archivo": "computadores/401106-computador-portatil-lenovo-ideapad-slim-3-15amn8-82xq0063lm-4.webp",
+          "miniatura": "computadores/401106-computador-portatil-lenovo-ideapad-slim-3-15amn8-82xq0063lm-4-min.webp",
+          "ancho": 867,
+          "alto": 966,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/01/543838-1200-auto-1.webp"
+        }
+      ]
+    },
+    {
+      "sku": "401144",
+      "nombre": "Computador Todo En Uno HP ProStudio 2 Core i5-120U 16 GB 512 GB SSD 23.8\" FHD Windows 11 Pro Negro",
+      "marca": "Hp",
+      "modelo": "D4QC6LT#ABM",
+      "categoria": "computadores",
+      "descripcion": "Todo en uno con pantalla IPS Full HD de 23,8\" a 100 Hz, Core i5-120U, 16 GB de RAM y SSD de 512 GB.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "23.8\" Pulgadas"
+        }
+      ],
+      "precio": 4360000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/computador-todo-en-uno-hp-prostudio-2-core-i5-120u-16-gb-512-gb-ssd-23-8%e2%80%b3-fhd-windows-11-pro-negro/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "computadores/401144-computador-todo-en-uno-hp-prostudio-2-core-i5-120u-16-gb-512-1.webp",
+          "miniatura": "computadores/401144-computador-todo-en-uno-hp-prostudio-2-core-i5-120u-16-gb-512-1-min.webp",
+          "ancho": 1400,
+          "alto": 1165,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/1-118.webp"
+        },
+        {
+          "archivo": "computadores/401144-computador-todo-en-uno-hp-prostudio-2-core-i5-120u-16-gb-512-2.webp",
+          "miniatura": "computadores/401144-computador-todo-en-uno-hp-prostudio-2-core-i5-120u-16-gb-512-2-min.webp",
+          "ancho": 1400,
+          "alto": 1144,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/H.webp"
+        },
+        {
+          "archivo": "computadores/401144-computador-todo-en-uno-hp-prostudio-2-core-i5-120u-16-gb-512-3.webp",
+          "miniatura": "computadores/401144-computador-todo-en-uno-hp-prostudio-2-core-i5-120u-16-gb-512-3-min.webp",
+          "ancho": 1400,
+          "alto": 1142,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/H2.webp"
+        },
+        {
+          "archivo": "computadores/401144-computador-todo-en-uno-hp-prostudio-2-core-i5-120u-16-gb-512-4.webp",
+          "miniatura": "computadores/401144-computador-todo-en-uno-hp-prostudio-2-core-i5-120u-16-gb-512-4-min.webp",
+          "ancho": 561,
+          "alto": 1380,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/HH.webp"
+        }
+      ]
+    },
+    {
+      "sku": "401143",
+      "nombre": "Computador Todo en Uno Asus Expertcenter PM670KA-BPE190X 27\" Ryzen AI 7 32 GB 1TB",
+      "marca": "Asus",
+      "modelo": "90PT0454-M012J0",
+      "categoria": "computadores",
+      "descripcion": "Todo en uno de 27\" Full HD antirreflejo con Ryzen AI 7, 32 GB de RAM, 1 TB y Wi-Fi 7.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "27\" Pulgadas"
+        }
+      ],
+      "precio": 5740000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/computador-todo-en-uno-asus-expertcenter-pm670ka-bpe190x-27-ryzen-ai-7-32-gb-1tb/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "computadores/401143-computador-todo-en-uno-asus-expertcenter-pm670ka-bpe190x-27-1.webp",
+          "miniatura": "computadores/401143-computador-todo-en-uno-asus-expertcenter-pm670ka-bpe190x-27-1-min.webp",
+          "ancho": 1076,
+          "alto": 899,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/silla-gamer-8.png"
+        },
+        {
+          "archivo": "computadores/401143-computador-todo-en-uno-asus-expertcenter-pm670ka-bpe190x-27-2.webp",
+          "miniatura": "computadores/401143-computador-todo-en-uno-asus-expertcenter-pm670ka-bpe190x-27-2-min.webp",
+          "ancho": 972,
+          "alto": 941,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/silla-gamer-9.png"
+        },
+        {
+          "archivo": "computadores/401143-computador-todo-en-uno-asus-expertcenter-pm670ka-bpe190x-27-3.webp",
+          "miniatura": "computadores/401143-computador-todo-en-uno-asus-expertcenter-pm670ka-bpe190x-27-3-min.webp",
+          "ancho": 1046,
+          "alto": 782,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/silla-gamer-10.png"
+        },
+        {
+          "archivo": "computadores/401143-computador-todo-en-uno-asus-expertcenter-pm670ka-bpe190x-27-4.webp",
+          "miniatura": "computadores/401143-computador-todo-en-uno-asus-expertcenter-pm670ka-bpe190x-27-4-min.webp",
+          "ancho": 318,
+          "alto": 945,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/silla-gamer-11.png"
+        }
+      ]
+    },
+    {
+      "sku": "1101050",
+      "nombre": "Tablet Xiaomi Redmi Pad 2 11\" Pulgadas RAM 4 GB 128 GB Gris",
+      "marca": "Xiaomi",
+      "modelo": "1067402",
+      "categoria": "computadores",
+      "descripcion": "Tableta de 11\" con pantalla 2.5K, 4 GB de RAM y 128 GB para estudiar, trabajar y entretenerse.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Gris"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "11 Pulgadas"
+        }
+      ],
+      "precio": 715000,
+      "precioAnterior": 930000,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/tablet-xiaomi-redmi-pad-2-11%c2%a8-pulgadas-ram-4-gb-128-gb-gris/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "computadores/1101050-tablet-xiaomi-redmi-pad-2-11-pulgadas-ram-4-gb-128-gb-gris-1.webp",
+          "miniatura": "computadores/1101050-tablet-xiaomi-redmi-pad-2-11-pulgadas-ram-4-gb-128-gb-gris-1-min.webp",
+          "ancho": 432,
+          "alto": 868,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/07/Tablet-XIAOMI-Redmi-Pad-2-4G-RAM-128G-ROM-Gr-11-pulgadas-LTE-128-GB-4-GB-RAM-Gris-3716972_b.webp"
+        },
+        {
+          "archivo": "computadores/1101050-tablet-xiaomi-redmi-pad-2-11-pulgadas-ram-4-gb-128-gb-gris-2.webp",
+          "miniatura": "computadores/1101050-tablet-xiaomi-redmi-pad-2-11-pulgadas-ram-4-gb-128-gb-gris-2-min.webp",
+          "ancho": 565,
+          "alto": 864,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/07/Tablet-XIAOMI-Redmi-Pad-2-4G-RAM-128G-ROM-Gr-11-pulgadas-LTE-128-GB-4-GB-RAM-Gris-3716972_d.webp"
+        },
+        {
+          "archivo": "computadores/1101050-tablet-xiaomi-redmi-pad-2-11-pulgadas-ram-4-gb-128-gb-gris-3.webp",
+          "miniatura": "computadores/1101050-tablet-xiaomi-redmi-pad-2-11-pulgadas-ram-4-gb-128-gb-gris-3-min.webp",
+          "ancho": 427,
+          "alto": 859,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/07/Tablet-XIAOMI-Redmi-Pad-2-4G-RAM-128G-ROM-Gr-11-pulgadas-LTE-128-GB-4-GB-RAM-Gris-3716972_e.webp"
+        },
+        {
+          "archivo": "computadores/1101050-tablet-xiaomi-redmi-pad-2-11-pulgadas-ram-4-gb-128-gb-gris-4.webp",
+          "miniatura": "computadores/1101050-tablet-xiaomi-redmi-pad-2-11-pulgadas-ram-4-gb-128-gb-gris-4-min.webp",
+          "ancho": 120,
+          "alto": 811,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/07/xiaomi-25040rp0al-4128gb-gris-grafito-tableta-xiaomi-redmi-pad-2-4128-graphite.jpg"
+        }
+      ]
+    },
+    {
+      "sku": "101318",
+      "nombre": "Amazon Kindle E-Reader (2024) 16 Gb -Wifi LCD 6\"",
+      "marca": "Amazon",
+      "modelo": "B0CP32JG8B",
+      "categoria": "computadores",
+      "descripcion": "Lector electrónico de 6\" con pantalla antirreflejo y 16 GB, ligero y sin distracciones.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        }
+      ],
+      "precio": 600000,
+      "precioAnterior": 1100000,
+      "disponible": true,
+      "destacado": true,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/amazon-kindle-e-reader-2024-16-gb-wifi-lcd-6-black/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "computadores/101318-amazon-kindle-e-reader-2024-16-gb-wifi-lcd-6-1.webp",
+          "miniatura": "computadores/101318-amazon-kindle-e-reader-2024-16-gb-wifi-lcd-6-1-min.webp",
+          "ancho": 676,
+          "alto": 690,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2025/11/51kc5N5DOSL._AC_SX679_.jpg"
+        },
+        {
+          "archivo": "computadores/101318-amazon-kindle-e-reader-2024-16-gb-wifi-lcd-6-2.webp",
+          "miniatura": "computadores/101318-amazon-kindle-e-reader-2024-16-gb-wifi-lcd-6-2-min.webp",
+          "ancho": 450,
+          "alto": 450,
+          "fondo": "ambiente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2025/11/71TrT-8KyVL._AC_SY450_.jpg"
+        },
+        {
+          "archivo": "computadores/101318-amazon-kindle-e-reader-2024-16-gb-wifi-lcd-6-3.webp",
+          "miniatura": "computadores/101318-amazon-kindle-e-reader-2024-16-gb-wifi-lcd-6-3-min.webp",
+          "ancho": 679,
+          "alto": 679,
+          "fondo": "ambiente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2025/11/71ozXmvsfbL._AC_SX679_.jpg"
+        },
+        {
+          "archivo": "computadores/101318-amazon-kindle-e-reader-2024-16-gb-wifi-lcd-6-4.webp",
+          "miniatura": "computadores/101318-amazon-kindle-e-reader-2024-16-gb-wifi-lcd-6-4-min.webp",
+          "ancho": 679,
+          "alto": 679,
+          "fondo": "ambiente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2025/11/61toPUX7aDL._AC_SX679_.jpg"
+        }
+      ]
+    },
+    {
+      "sku": "701161",
+      "nombre": "Celular Samsung Galaxy A37 5G 6GB 128 GB Gris",
+      "marca": "Samsung",
+      "modelo": "SM-A376BZAJLTC",
+      "categoria": "celulares",
+      "descripcion": "Pantalla de 6,7\", triple cámara de 50 MP con estabilización óptica, 6 GB de RAM y 128 GB.",
+      "lema": "Cada momento, con más detalle",
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Gris"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "6,7\" pulgadas"
+        }
+      ],
+      "precio": 1050000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": true,
+      "portada": 2,
+      "urlOrigen": "https://infotechonline.co/producto/celular-samsung-galaxy-a37-5g-6gb-128-gb-gris/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "celulares/701161-celular-samsung-galaxy-a37-5g-6gb-128-gb-gris-1.webp",
+          "miniatura": "celulares/701161-celular-samsung-galaxy-a37-5g-6gb-128-gb-gris-1-min.webp",
+          "ancho": 731,
+          "alto": 940,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/x-16.png"
+        },
+        {
+          "archivo": "celulares/701161-celular-samsung-galaxy-a37-5g-6gb-128-gb-gris-2.webp",
+          "miniatura": "celulares/701161-celular-samsung-galaxy-a37-5g-6gb-128-gb-gris-2-min.webp",
+          "ancho": 403,
+          "alto": 965,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/x-17.png"
+        },
+        {
+          "archivo": "celulares/701161-celular-samsung-galaxy-a37-5g-6gb-128-gb-gris-3.webp",
+          "miniatura": "celulares/701161-celular-samsung-galaxy-a37-5g-6gb-128-gb-gris-3-min.webp",
+          "ancho": 402,
+          "alto": 961,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/x-20.png"
+        },
+        {
+          "archivo": "celulares/701161-celular-samsung-galaxy-a37-5g-6gb-128-gb-gris-4.webp",
+          "miniatura": "celulares/701161-celular-samsung-galaxy-a37-5g-6gb-128-gb-gris-4-min.webp",
+          "ancho": 455,
+          "alto": 936,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/x-18.png"
+        }
+      ]
+    },
+    {
+      "sku": "701159",
+      "nombre": "Celular Samsung Galaxy A17 4G 256GB 8GB Gris",
+      "marca": "Samsung",
+      "modelo": "SM-A175FZAHLTC",
+      "categoria": "celulares",
+      "descripcion": "Pantalla de 6,7\", triple cámara de 50 MP con estabilización óptica, 8 GB de RAM y 256 GB.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Gris"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "6,7\" pulgadas"
+        }
+      ],
+      "precio": 971000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/celular-samsung-galaxy-a17-4g-256gb-8gb-gris/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "celulares/701159-celular-samsung-galaxy-a17-4g-256gb-8gb-gris-1.webp",
+          "miniatura": "celulares/701159-celular-samsung-galaxy-a17-4g-256gb-8gb-gris-1-min.webp",
+          "ancho": 764,
+          "alto": 925,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/NEGRO1-31.png"
+        },
+        {
+          "archivo": "celulares/701159-celular-samsung-galaxy-a17-4g-256gb-8gb-gris-2.webp",
+          "miniatura": "celulares/701159-celular-samsung-galaxy-a17-4g-256gb-8gb-gris-2-min.webp",
+          "ancho": 386,
+          "alto": 934,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/NEGRO1-33.png"
+        },
+        {
+          "archivo": "celulares/701159-celular-samsung-galaxy-a17-4g-256gb-8gb-gris-3.webp",
+          "miniatura": "celulares/701159-celular-samsung-galaxy-a17-4g-256gb-8gb-gris-3-min.webp",
+          "ancho": 387,
+          "alto": 936,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/NEGRO1-32.png"
+        },
+        {
+          "archivo": "celulares/701159-celular-samsung-galaxy-a17-4g-256gb-8gb-gris-4.webp",
+          "miniatura": "celulares/701159-celular-samsung-galaxy-a17-4g-256gb-8gb-gris-4-min.webp",
+          "ancho": 1014,
+          "alto": 879,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/w1200h1200fitpad-2026-10-29T115953.942.webp"
+        }
+      ]
+    },
+    {
+      "sku": "701158",
+      "nombre": "Celular Samsung Galaxy A07 4G 6GB 128GB Negro",
+      "marca": "Samsung",
+      "modelo": "SM-A075MZKHLTC",
+      "categoria": "celulares",
+      "descripcion": "Pantalla de 6,7\", cámara principal de 50 MP, 6 GB de RAM y 128 GB de almacenamiento.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "6,7\" pulgadas"
+        }
+      ],
+      "precio": 673000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/celular-samsung-galaxy-a07-4g-6gb-128gb-negro/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "celulares/701158-celular-samsung-galaxy-a07-4g-6gb-128gb-negro-1.webp",
+          "miniatura": "celulares/701158-celular-samsung-galaxy-a07-4g-6gb-128gb-negro-1-min.webp",
+          "ancho": 772,
+          "alto": 954,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/s-27.png"
+        },
+        {
+          "archivo": "celulares/701158-celular-samsung-galaxy-a07-4g-6gb-128gb-negro-2.webp",
+          "miniatura": "celulares/701158-celular-samsung-galaxy-a07-4g-6gb-128gb-negro-2-min.webp",
+          "ancho": 386,
+          "alto": 958,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/s-29.png"
+        },
+        {
+          "archivo": "celulares/701158-celular-samsung-galaxy-a07-4g-6gb-128gb-negro-3.webp",
+          "miniatura": "celulares/701158-celular-samsung-galaxy-a07-4g-6gb-128gb-negro-3-min.webp",
+          "ancho": 449,
+          "alto": 958,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/s-28.png"
+        },
+        {
+          "archivo": "celulares/701158-celular-samsung-galaxy-a07-4g-6gb-128gb-negro-4.webp",
+          "miniatura": "celulares/701158-celular-samsung-galaxy-a07-4g-6gb-128gb-negro-4-min.webp",
+          "ancho": 1049,
+          "alto": 1092,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/D_NQ_NP_2X_649430-MLA108201536333_032026-F.webp"
+        }
+      ]
+    },
+    {
+      "sku": "701149",
+      "nombre": "Celular Motorola Edge 70 Fusion 5G 12 GB 256 GB Celeste",
+      "marca": "Motorola",
+      "modelo": "PBBB0093CO",
+      "categoria": "celulares",
+      "descripcion": "Cámara Sony LYTIA de 50 MP con OIS, frontal de 32 MP, batería de 7000 mAh, 12 GB de RAM y 256 GB.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Celeste"
+        }
+      ],
+      "precio": 1880000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": true,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/celular-motorola-edge-70-fusion-5g-12-gb-256-gb-celeste/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "celulares/701149-celular-motorola-edge-70-fusion-5g-12-gb-256-gb-celeste-1.webp",
+          "miniatura": "celulares/701149-celular-motorola-edge-70-fusion-5g-12-gb-256-gb-celeste-1-min.webp",
+          "ancho": 770,
+          "alto": 966,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/celeste.png"
+        },
+        {
+          "archivo": "celulares/701149-celular-motorola-edge-70-fusion-5g-12-gb-256-gb-celeste-2.webp",
+          "miniatura": "celulares/701149-celular-motorola-edge-70-fusion-5g-12-gb-256-gb-celeste-2-min.webp",
+          "ancho": 788,
+          "alto": 998,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/celeste-1.png"
+        },
+        {
+          "archivo": "celulares/701149-celular-motorola-edge-70-fusion-5g-12-gb-256-gb-celeste-3.webp",
+          "miniatura": "celulares/701149-celular-motorola-edge-70-fusion-5g-12-gb-256-gb-celeste-3-min.webp",
+          "ancho": 328,
+          "alto": 989,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/celeste-2.png"
+        },
+        {
+          "archivo": "celulares/701149-celular-motorola-edge-70-fusion-5g-12-gb-256-gb-celeste-4.webp",
+          "miniatura": "celulares/701149-celular-motorola-edge-70-fusion-5g-12-gb-256-gb-celeste-4-min.webp",
+          "ancho": 335,
+          "alto": 961,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/celeste-3.png"
+        }
+      ]
+    },
+    {
+      "sku": "701146",
+      "nombre": "Celular Motorola G67 5G 256 GB 8 GB RAM Gris",
+      "marca": "Motorola",
+      "modelo": "PBAT0031CO",
+      "categoria": "celulares",
+      "descripcion": "Cámara de 50 MP + 8 MP, frontal de 32 MP, batería de 5200 mAh, 8 GB de RAM y 256 GB.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Gris"
+        }
+      ],
+      "precio": 850000,
+      "precioAnterior": 1800000,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/celular-motorola-g67-5g-256-gb-8-gb-ram-gris/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "celulares/701146-celular-motorola-g67-5g-256-gb-8-gb-ram-gris-1.webp",
+          "miniatura": "celulares/701146-celular-motorola-g67-5g-256-gb-8-gb-ram-gris-1-min.webp",
+          "ancho": 759,
+          "alto": 944,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/NEGRO1-9.png"
+        },
+        {
+          "archivo": "celulares/701146-celular-motorola-g67-5g-256-gb-8-gb-ram-gris-2.webp",
+          "miniatura": "celulares/701146-celular-motorola-g67-5g-256-gb-8-gb-ram-gris-2-min.webp",
+          "ancho": 332,
+          "alto": 959,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/NEGRO1-11.png"
+        },
+        {
+          "archivo": "celulares/701146-celular-motorola-g67-5g-256-gb-8-gb-ram-gris-3.webp",
+          "miniatura": "celulares/701146-celular-motorola-g67-5g-256-gb-8-gb-ram-gris-3-min.webp",
+          "ancho": 328,
+          "alto": 949,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/NEGRO1-10.png"
+        },
+        {
+          "archivo": "celulares/701146-celular-motorola-g67-5g-256-gb-8-gb-ram-gris-4.webp",
+          "miniatura": "celulares/701146-celular-motorola-g67-5g-256-gb-8-gb-ram-gris-4-min.webp",
+          "ancho": 854,
+          "alto": 863,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/Moto-g67-256GB-Gris-MOTOROLA-g67-256-GB-8-GB-RAM-3816938_c.webp"
+        }
+      ]
+    },
+    {
+      "sku": "701156",
+      "nombre": "Celular Xiaomi Note 17 5G 256 GB 6 GB RAM Azul",
+      "marca": "Xiaomi",
+      "modelo": "1070846",
+      "categoria": "celulares",
+      "descripcion": "Pantalla de 6,9\", cámara principal de 50 MP, frontal de 16 MP, 6 GB de RAM y 256 GB.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Azul"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "6,9\" pulgadas"
+        }
+      ],
+      "precio": 964000,
+      "precioAnterior": 1200000,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/celular-xiaomi-note-17-5g-256-gb-6-gb-ram-azul/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "celulares/701156-celular-xiaomi-note-17-5g-256-gb-6-gb-ram-azul-1.webp",
+          "miniatura": "celulares/701156-celular-xiaomi-note-17-5g-256-gb-6-gb-ram-azul-1-min.webp",
+          "ancho": 764,
+          "alto": 941,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/x-3.png"
+        },
+        {
+          "archivo": "celulares/701156-celular-xiaomi-note-17-5g-256-gb-6-gb-ram-azul-2.webp",
+          "miniatura": "celulares/701156-celular-xiaomi-note-17-5g-256-gb-6-gb-ram-azul-2-min.webp",
+          "ancho": 541,
+          "alto": 943,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/x-5.png"
+        },
+        {
+          "archivo": "celulares/701156-celular-xiaomi-note-17-5g-256-gb-6-gb-ram-azul-3.webp",
+          "miniatura": "celulares/701156-celular-xiaomi-note-17-5g-256-gb-6-gb-ram-azul-3-min.webp",
+          "ancho": 444,
+          "alto": 947,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/x-4.png"
+        },
+        {
+          "archivo": "celulares/701156-celular-xiaomi-note-17-5g-256-gb-6-gb-ram-azul-4.webp",
+          "miniatura": "celulares/701156-celular-xiaomi-note-17-5g-256-gb-6-gb-ram-azul-4-min.webp",
+          "ancho": 325,
+          "alto": 952,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/x-6.png"
+        }
+      ]
+    },
+    {
+      "sku": "701153",
+      "nombre": "Celular Xiaomi Poco F8 Ultra 5G 16GB Ram 512GB Rom Denim Azul",
+      "marca": "Xiaomi",
+      "modelo": "71879",
+      "categoria": "celulares",
+      "descripcion": "Triple cámara de 50 MP con teleobjetivo periscópico 5x, batería de 6500 mAh, carga de 100 W, 16 GB y 512 GB.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Azul"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "6,9\" Pulgadas"
+        }
+      ],
+      "precio": 3603000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": true,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/celular-xiaomi-poco-f8-ultra-5g-16gb-ram-512gb-rom-denim-azul/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "celulares/701153-celular-xiaomi-poco-f8-ultra-5g-16gb-ram-512gb-rom-denim-azu-1.webp",
+          "miniatura": "celulares/701153-celular-xiaomi-poco-f8-ultra-5g-16gb-ram-512gb-rom-denim-azu-1-min.webp",
+          "ancho": 798,
+          "alto": 926,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/poco.png"
+        },
+        {
+          "archivo": "celulares/701153-celular-xiaomi-poco-f8-ultra-5g-16gb-ram-512gb-rom-denim-azu-2.webp",
+          "miniatura": "celulares/701153-celular-xiaomi-poco-f8-ultra-5g-16gb-ram-512gb-rom-denim-azu-2-min.webp",
+          "ancho": 445,
+          "alto": 924,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/poco-1.png"
+        },
+        {
+          "archivo": "celulares/701153-celular-xiaomi-poco-f8-ultra-5g-16gb-ram-512gb-rom-denim-azu-3.webp",
+          "miniatura": "celulares/701153-celular-xiaomi-poco-f8-ultra-5g-16gb-ram-512gb-rom-denim-azu-3-min.webp",
+          "ancho": 442,
+          "alto": 920,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/poco-2.png"
+        },
+        {
+          "archivo": "celulares/701153-celular-xiaomi-poco-f8-ultra-5g-16gb-ram-512gb-rom-denim-azu-4.webp",
+          "miniatura": "celulares/701153-celular-xiaomi-poco-f8-ultra-5g-16gb-ram-512gb-rom-denim-azu-4-min.webp",
+          "ancho": 278,
+          "alto": 923,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/poco-3.png"
+        }
+      ]
+    },
+    {
+      "sku": "801073",
+      "nombre": "Televisor Samsung Crystal UHD 4K 65 Pulgadas UN65U8500HKXZL",
+      "marca": "Samsung",
+      "modelo": "UN65U8500HKXZL",
+      "categoria": "pantallas",
+      "descripcion": "Televisor de 65\" con resolución 4K y diseño delgado para una experiencia de entretenimiento envolvente.",
+      "lema": "El cine se muda a tu sala",
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "65 Pulgadas"
+        }
+      ],
+      "precio": 2420000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": true,
+      "portada": 3,
+      "urlOrigen": "https://infotechonline.co/producto/televisor-samsung-crystal-uhd-4k-65-pulgadas-un65u8500hkxzl/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "pantallas/801073-televisor-samsung-crystal-uhd-4k-65-pulgadas-un65u8500hkxzl-2.webp",
+          "miniatura": "pantallas/801073-televisor-samsung-crystal-uhd-4k-65-pulgadas-un65u8500hkxzl-2-min.webp",
+          "ancho": 860,
+          "alto": 913,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/07/w1200h1200fitpad-17.webp"
+        },
+        {
+          "archivo": "pantallas/801073-televisor-samsung-crystal-uhd-4k-65-pulgadas-un65u8500hkxzl-1.webp",
+          "miniatura": "pantallas/801073-televisor-samsung-crystal-uhd-4k-65-pulgadas-un65u8500hkxzl-1-min.webp",
+          "ancho": 1158,
+          "alto": 708,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/07/silla-gamer-14.png"
+        },
+        {
+          "archivo": "pantallas/801073-televisor-samsung-crystal-uhd-4k-65-pulgadas-un65u8500hkxzl-3.webp",
+          "miniatura": "pantallas/801073-televisor-samsung-crystal-uhd-4k-65-pulgadas-un65u8500hkxzl-3-min.webp",
+          "ancho": 859,
+          "alto": 913,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/07/w1200h1200fitpad-20.webp"
+        },
+        {
+          "archivo": "pantallas/801073-televisor-samsung-crystal-uhd-4k-65-pulgadas-un65u8500hkxzl-4.webp",
+          "miniatura": "pantallas/801073-televisor-samsung-crystal-uhd-4k-65-pulgadas-un65u8500hkxzl-4-min.webp",
+          "ancho": 875,
+          "alto": 918,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/07/w1200h1200fitpad-18.webp"
+        }
+      ]
+    },
+    {
+      "sku": "801083",
+      "nombre": "Televisor Samsung 43\" Pulgadas Crystal 4K Ultra UHD LED Smart TV UN43U8500HKXZL",
+      "marca": "Samsung",
+      "modelo": "UN43U8500HKXZL",
+      "categoria": "pantallas",
+      "descripcion": "Smart TV de 43\" con resolución 4K (3840 × 2160) y sonido de 20 W.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "43\" pulgadas"
+        }
+      ],
+      "precio": 1232000,
+      "precioAnterior": 2150000,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/televisor-samsung-43-pulgadas-crystal-4k-ultra-uhd-led-smart-tv-un43u8500hkxzl/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "pantallas/801083-televisor-samsung-43-pulgadas-crystal-4k-ultra-uhd-led-smart-1.webp",
+          "miniatura": "pantallas/801083-televisor-samsung-43-pulgadas-crystal-4k-ultra-uhd-led-smart-1-min.webp",
+          "ancho": 1148,
+          "alto": 702,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/s-22.png"
+        },
+        {
+          "archivo": "pantallas/801083-televisor-samsung-43-pulgadas-crystal-4k-ultra-uhd-led-smart-2.webp",
+          "miniatura": "pantallas/801083-televisor-samsung-43-pulgadas-crystal-4k-ultra-uhd-led-smart-2-min.webp",
+          "ancho": 764,
+          "alto": 812,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/s-24.png"
+        },
+        {
+          "archivo": "pantallas/801083-televisor-samsung-43-pulgadas-crystal-4k-ultra-uhd-led-smart-3.webp",
+          "miniatura": "pantallas/801083-televisor-samsung-43-pulgadas-crystal-4k-ultra-uhd-led-smart-3-min.webp",
+          "ancho": 781,
+          "alto": 831,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/s-23.png"
+        },
+        {
+          "archivo": "pantallas/801083-televisor-samsung-43-pulgadas-crystal-4k-ultra-uhd-led-smart-4.webp",
+          "miniatura": "pantallas/801083-televisor-samsung-43-pulgadas-crystal-4k-ultra-uhd-led-smart-4-min.webp",
+          "ancho": 212,
+          "alto": 850,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/s-26.png"
+        }
+      ]
+    },
+    {
+      "sku": "801081",
+      "nombre": "Televisor Samsung Smart TV 55\" Pulgadas Mini LED 4K UN55M75HAKXZL",
+      "marca": "Samsung",
+      "modelo": "UN55M75HAKXZL",
+      "categoria": "pantallas",
+      "descripcion": "Smart TV de 55\" Mini LED 4K con sistema Tizen, Color Booster y Motion Xcelerator.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "55\" pulgadas"
+        }
+      ],
+      "precio": 2020000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": true,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/televisor-samsung-smart-55-pulgadas-mini-led-un55m75hakxzl-4k/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "pantallas/801081-televisor-samsung-smart-tv-55-pulgadas-mini-led-4k-un55m75ha-1.webp",
+          "miniatura": "pantallas/801081-televisor-samsung-smart-tv-55-pulgadas-mini-led-4k-un55m75ha-1-min.webp",
+          "ancho": 1162,
+          "alto": 735,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/Mini.png"
+        },
+        {
+          "archivo": "pantallas/801081-televisor-samsung-smart-tv-55-pulgadas-mini-led-4k-un55m75ha-2.webp",
+          "miniatura": "pantallas/801081-televisor-samsung-smart-tv-55-pulgadas-mini-led-4k-un55m75ha-2-min.webp",
+          "ancho": 702,
+          "alto": 760,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/Mini-1.png"
+        },
+        {
+          "archivo": "pantallas/801081-televisor-samsung-smart-tv-55-pulgadas-mini-led-4k-un55m75ha-3.webp",
+          "miniatura": "pantallas/801081-televisor-samsung-smart-tv-55-pulgadas-mini-led-4k-un55m75ha-3-min.webp",
+          "ancho": 692,
+          "alto": 749,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/Mini-2.png"
+        },
+        {
+          "archivo": "pantallas/801081-televisor-samsung-smart-tv-55-pulgadas-mini-led-4k-un55m75ha-4.webp",
+          "miniatura": "pantallas/801081-televisor-samsung-smart-tv-55-pulgadas-mini-led-4k-un55m75ha-4-min.webp",
+          "ancho": 1200,
+          "alto": 1200,
+          "fondo": "ambiente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/447794-1200-1200.webp"
+        }
+      ]
+    },
+    {
+      "sku": "801084",
+      "nombre": "Televisor Hisense Hi-QLED Q6QV 55\" Pulgadas",
+      "marca": "Hisense",
+      "modelo": "55Q6QV",
+      "categoria": "pantallas",
+      "descripcion": "Smart TV de 55\" Hi-QLED con escalador 4K por inteligencia artificial y sonido Dolby Atmos.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "55\" pulgadas"
+        }
+      ],
+      "precio": 2102000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/televisor-hisense-hi-qled-q6qv-55-pulgadas/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "pantallas/801084-televisor-hisense-hi-qled-q6qv-55-pulgadas-1.webp",
+          "miniatura": "pantallas/801084-televisor-hisense-hi-qled-q6qv-55-pulgadas-1-min.webp",
+          "ancho": 1183,
+          "alto": 790,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/h-1.png"
+        },
+        {
+          "archivo": "pantallas/801084-televisor-hisense-hi-qled-q6qv-55-pulgadas-2.webp",
+          "miniatura": "pantallas/801084-televisor-hisense-hi-qled-q6qv-55-pulgadas-2-min.webp",
+          "ancho": 832,
+          "alto": 832,
+          "fondo": "ambiente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/w1708h832fwebpfitcontainq85-11.webp"
+        },
+        {
+          "archivo": "pantallas/801084-televisor-hisense-hi-qled-q6qv-55-pulgadas-3.webp",
+          "miniatura": "pantallas/801084-televisor-hisense-hi-qled-q6qv-55-pulgadas-3-min.webp",
+          "ancho": 795,
+          "alto": 746,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/w1708h832fwebpfitcontainq85-10.webp"
+        },
+        {
+          "archivo": "pantallas/801084-televisor-hisense-hi-qled-q6qv-55-pulgadas-4.webp",
+          "miniatura": "pantallas/801084-televisor-hisense-hi-qled-q6qv-55-pulgadas-4-min.webp",
+          "ancho": 832,
+          "alto": 832,
+          "fondo": "ambiente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/w1708h832fwebpfitcontainq85-9.webp"
+        }
+      ]
+    },
+    {
+      "sku": "801075",
+      "nombre": "Televisor TCL 65 pulgadas LED Uhd4K Smart TV 65V6C",
+      "marca": "TCL",
+      "modelo": "65V6C",
+      "categoria": "pantallas",
+      "descripcion": "Televisor de 65\" 4K con Google TV, HDMI 2.1, Chromecast integrado y control por voz.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        }
+      ],
+      "precio": 2303000,
+      "precioAnterior": 4800000,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/televisor-tcl-65-pulgadas-led-uhd4k-smart-tv-65v6c/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "pantallas/801075-televisor-tcl-65-pulgadas-led-uhd4k-smart-tv-65v6c-1.webp",
+          "miniatura": "pantallas/801075-televisor-tcl-65-pulgadas-led-uhd4k-smart-tv-65v6c-1-min.webp",
+          "ancho": 1153,
+          "alto": 723,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/silla-gamer-15.png"
+        },
+        {
+          "archivo": "pantallas/801075-televisor-tcl-65-pulgadas-led-uhd4k-smart-tv-65v6c-2.webp",
+          "miniatura": "pantallas/801075-televisor-tcl-65-pulgadas-led-uhd4k-smart-tv-65v6c-2-min.webp",
+          "ancho": 1000,
+          "alto": 1000,
+          "fondo": "ambiente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/Televisor-TCL-65-pulgadas-LED-Uhd-4K-Smart-TV-65V6C-3832583_c.webp"
+        },
+        {
+          "archivo": "pantallas/801075-televisor-tcl-65-pulgadas-led-uhd4k-smart-tv-65v6c-3.webp",
+          "miniatura": "pantallas/801075-televisor-tcl-65-pulgadas-led-uhd4k-smart-tv-65v6c-3-min.webp",
+          "ancho": 1000,
+          "alto": 873,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/Televisor-TCL-65-pulgadas-LED-Uhd-4K-Smart-TV-65V6C-3832583_b.webp"
+        },
+        {
+          "archivo": "pantallas/801075-televisor-tcl-65-pulgadas-led-uhd4k-smart-tv-65v6c-4.webp",
+          "miniatura": "pantallas/801075-televisor-tcl-65-pulgadas-led-uhd4k-smart-tv-65v6c-4-min.webp",
+          "ancho": 916,
+          "alto": 899,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/Televisor-TCL-65-pulgadas-LED-Uhd-4K-Smart-TV-65V6C-3832583_f.webp"
+        }
+      ]
+    },
+    {
+      "sku": "301051",
+      "nombre": "Monitor LG 27\" Pulgadas 27U710B-B 4K UHD",
+      "marca": "LG",
+      "modelo": "27U710B-B",
+      "categoria": "pantallas",
+      "descripcion": "Monitor de 27\" 4K UHD con Reader Mode, Flicker Safe y Black Stabilizer.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "27 pulgadas"
+        }
+      ],
+      "precio": 1280000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/monitor-lg-27-pulgadas-27u710b-b-4k-uhd/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "pantallas/301051-monitor-lg-27-pulgadas-27u710b-b-4k-uhd-1.webp",
+          "miniatura": "pantallas/301051-monitor-lg-27-pulgadas-27u710b-b-4k-uhd-1-min.webp",
+          "ancho": 978,
+          "alto": 901,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/07/LG-UTRAFINE.png"
+        },
+        {
+          "archivo": "pantallas/301051-monitor-lg-27-pulgadas-27u710b-b-4k-uhd-2.webp",
+          "miniatura": "pantallas/301051-monitor-lg-27-pulgadas-27u710b-b-4k-uhd-2-min.webp",
+          "ancho": 1064,
+          "alto": 844,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/07/LG-UTRAFINE-3.png"
+        },
+        {
+          "archivo": "pantallas/301051-monitor-lg-27-pulgadas-27u710b-b-4k-uhd-3.webp",
+          "miniatura": "pantallas/301051-monitor-lg-27-pulgadas-27u710b-b-4k-uhd-3-min.webp",
+          "ancho": 1018,
+          "alto": 354,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/07/LG-UTRAFINE-2.png"
+        }
+      ]
+    },
+    {
+      "sku": "301060",
+      "nombre": "Monitor Dell Pro P2426HE Con Concentrador 23,8\" Pulgadas",
+      "marca": "Dell",
+      "modelo": "210-BVSP",
+      "categoria": "pantallas",
+      "descripcion": "Monitor de 23,8\" con concentrador: HDMI, DisplayPort, USB-C, USB-A y Ethernet. Soporte ajustable.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        }
+      ],
+      "precio": 850000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/monitor-dell-pro-p2426he-con-concentrador-238-pulgadas/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "pantallas/301060-monitor-dell-pro-p2426he-con-concentrador-23-8-pulgadas-1.webp",
+          "miniatura": "pantallas/301060-monitor-dell-pro-p2426he-con-concentrador-23-8-pulgadas-1-min.webp",
+          "ancho": 1105,
+          "alto": 873,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/silla-gamer-16.png"
+        },
+        {
+          "archivo": "pantallas/301060-monitor-dell-pro-p2426he-con-concentrador-23-8-pulgadas-2.webp",
+          "miniatura": "pantallas/301060-monitor-dell-pro-p2426he-con-concentrador-23-8-pulgadas-2-min.webp",
+          "ancho": 1023,
+          "alto": 966,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/silla-gamer-17.png"
+        },
+        {
+          "archivo": "pantallas/301060-monitor-dell-pro-p2426he-con-concentrador-23-8-pulgadas-3.webp",
+          "miniatura": "pantallas/301060-monitor-dell-pro-p2426he-con-concentrador-23-8-pulgadas-3-min.webp",
+          "ancho": 369,
+          "alto": 901,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/silla-gamer-19.png"
+        },
+        {
+          "archivo": "pantallas/301060-monitor-dell-pro-p2426he-con-concentrador-23-8-pulgadas-4.webp",
+          "miniatura": "pantallas/301060-monitor-dell-pro-p2426he-con-concentrador-23-8-pulgadas-4-min.webp",
+          "ancho": 1096,
+          "alto": 918,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/silla-gamer-18.png"
+        }
+      ]
+    },
+    {
+      "sku": "301003",
+      "nombre": "Monitor HP P22h G5 FHD de 21,5\"",
+      "marca": "Hp",
+      "modelo": "64W30AA#ABA",
+      "categoria": "pantallas",
+      "descripcion": "Monitor de 21,5\" con resolución Full HD (1920 × 1080) para trabajo o entretenimiento.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        }
+      ],
+      "precio": 830000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/monitor-hp-p22h-g5-fhd-de-215/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "pantallas/301003-monitor-hp-p22h-g5-fhd-de-21-5-1.webp",
+          "miniatura": "pantallas/301003-monitor-hp-p22h-g5-fhd-de-21-5-1-min.webp",
+          "ancho": 1163,
+          "alto": 843,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/03/HP-ROSA-1-1.png"
+        },
+        {
+          "archivo": "pantallas/301003-monitor-hp-p22h-g5-fhd-de-21-5-2.webp",
+          "miniatura": "pantallas/301003-monitor-hp-p22h-g5-fhd-de-21-5-2-min.webp",
+          "ancho": 961,
+          "alto": 895,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/03/4.png"
+        },
+        {
+          "archivo": "pantallas/301003-monitor-hp-p22h-g5-fhd-de-21-5-3.webp",
+          "miniatura": "pantallas/301003-monitor-hp-p22h-g5-fhd-de-21-5-3-min.webp",
+          "ancho": 1081,
+          "alto": 830,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/03/3.png"
+        },
+        {
+          "archivo": "pantallas/301003-monitor-hp-p22h-g5-fhd-de-21-5-4.webp",
+          "miniatura": "pantallas/301003-monitor-hp-p22h-g5-fhd-de-21-5-4-min.webp",
+          "ancho": 1135,
+          "alto": 162,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/03/2.png"
+        }
+      ]
+    },
+    {
+      "sku": "601017",
+      "nombre": "Alexa Amazon Echo Dot 5th Generacion Negro",
+      "marca": "Amazon",
+      "modelo": "10607072401",
+      "categoria": "hogar-inteligente",
+      "descripcion": "Altavoz inteligente con Alexa: música, clima, noticias y control por voz del hogar.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        }
+      ],
+      "precio": 271000,
+      "precioAnterior": 320000,
+      "disponible": true,
+      "destacado": true,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/alexa-amazon-echo-dot-5th-generacion-smart-speaker-negro/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "hogar-inteligente/601017-alexa-amazon-echo-dot-5th-generacion-negro-1.webp",
+          "miniatura": "hogar-inteligente/601017-alexa-amazon-echo-dot-5th-generacion-negro-1-min.webp",
+          "ancho": 806,
+          "alto": 776,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2023/11/NEGRO1-21.png"
+        },
+        {
+          "archivo": "hogar-inteligente/601017-alexa-amazon-echo-dot-5th-generacion-negro-2.webp",
+          "miniatura": "hogar-inteligente/601017-alexa-amazon-echo-dot-5th-generacion-negro-2-min.webp",
+          "ancho": 806,
+          "alto": 776,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2023/11/NEGRO1-21.png"
+        },
+        {
+          "archivo": "hogar-inteligente/601017-alexa-amazon-echo-dot-5th-generacion-negro-3.webp",
+          "miniatura": "hogar-inteligente/601017-alexa-amazon-echo-dot-5th-generacion-negro-3-min.webp",
+          "ancho": 793,
+          "alto": 792,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2023/11/NEGRO1-23.png"
+        },
+        {
+          "archivo": "hogar-inteligente/601017-alexa-amazon-echo-dot-5th-generacion-negro-4.webp",
+          "miniatura": "hogar-inteligente/601017-alexa-amazon-echo-dot-5th-generacion-negro-4-min.webp",
+          "ancho": 784,
+          "alto": 785,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2023/11/NEGRO1-24.png"
+        }
+      ]
+    },
+    {
+      "sku": "601110",
+      "nombre": "Asistente De Voz Amazon Echo Show 8 Pantalla 8,7\" HD Blanco",
+      "marca": "Amazon",
+      "modelo": "B0DC93K4NW",
+      "categoria": "hogar-inteligente",
+      "descripcion": "Pantalla inteligente de 8,7\" HD con Alexa para videollamadas, contenido y control del hogar.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Blanco"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "8,7\" pulgadas"
+        }
+      ],
+      "precio": 857000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": true,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/asistente-de-voz-amazon-echo-show-8-pantalla-87%e2%80%b3-hd-blanco/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "hogar-inteligente/601110-asistente-de-voz-amazon-echo-show-8-pantalla-8-7-hd-blanco-1.webp",
+          "miniatura": "hogar-inteligente/601110-asistente-de-voz-amazon-echo-show-8-pantalla-8-7-hd-blanco-1-min.webp",
+          "ancho": 987,
+          "alto": 767,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/png-6.png"
+        },
+        {
+          "archivo": "hogar-inteligente/601110-asistente-de-voz-amazon-echo-show-8-pantalla-8-7-hd-blanco-2.webp",
+          "miniatura": "hogar-inteligente/601110-asistente-de-voz-amazon-echo-show-8-pantalla-8-7-hd-blanco-2-min.webp",
+          "ancho": 996,
+          "alto": 802,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/png-7.png"
+        },
+        {
+          "archivo": "hogar-inteligente/601110-asistente-de-voz-amazon-echo-show-8-pantalla-8-7-hd-blanco-3.webp",
+          "miniatura": "hogar-inteligente/601110-asistente-de-voz-amazon-echo-show-8-pantalla-8-7-hd-blanco-3-min.webp",
+          "ancho": 656,
+          "alto": 809,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/amaz-7.png"
+        },
+        {
+          "archivo": "hogar-inteligente/601110-asistente-de-voz-amazon-echo-show-8-pantalla-8-7-hd-blanco-4.webp",
+          "miniatura": "hogar-inteligente/601110-asistente-de-voz-amazon-echo-show-8-pantalla-8-7-hd-blanco-4-min.webp",
+          "ancho": 1100,
+          "alto": 1100,
+          "fondo": "ambiente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/1364037-1200-auto.webp"
+        }
+      ]
+    },
+    {
+      "sku": "601113",
+      "nombre": "Asistente De Voz Inteligente Amazon Echo Show 11 Blanco",
+      "marca": "Amazon",
+      "modelo": "B0DC96PPZK",
+      "categoria": "hogar-inteligente",
+      "descripcion": "Pantalla inteligente de 11\" con procesador AZ3 Pro, cámara de 13 MP y audio espacial.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Blanco"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "11\" pulgadas"
+        }
+      ],
+      "precio": 1000000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/asistente-de-voz-inteligente-amazon-echo-show-11-blanco/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "hogar-inteligente/601113-asistente-de-voz-inteligente-amazon-echo-show-11-blanco-1.webp",
+          "miniatura": "hogar-inteligente/601113-asistente-de-voz-inteligente-amazon-echo-show-11-blanco-1-min.webp",
+          "ancho": 1058,
+          "alto": 739,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/png-8.png"
+        },
+        {
+          "archivo": "hogar-inteligente/601113-asistente-de-voz-inteligente-amazon-echo-show-11-blanco-2.webp",
+          "miniatura": "hogar-inteligente/601113-asistente-de-voz-inteligente-amazon-echo-show-11-blanco-2-min.webp",
+          "ancho": 1014,
+          "alto": 759,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/png-9.png"
+        },
+        {
+          "archivo": "hogar-inteligente/601113-asistente-de-voz-inteligente-amazon-echo-show-11-blanco-3.webp",
+          "miniatura": "hogar-inteligente/601113-asistente-de-voz-inteligente-amazon-echo-show-11-blanco-3-min.webp",
+          "ancho": 940,
+          "alto": 741,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/png-10.png"
+        },
+        {
+          "archivo": "hogar-inteligente/601113-asistente-de-voz-inteligente-amazon-echo-show-11-blanco-4.webp",
+          "miniatura": "hogar-inteligente/601113-asistente-de-voz-inteligente-amazon-echo-show-11-blanco-4-min.webp",
+          "ancho": 1000,
+          "alto": 1000,
+          "fondo": "ambiente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/2453722-1200-auto-1.png"
+        }
+      ]
+    },
+    {
+      "sku": "601109",
+      "nombre": "Asistente De Voz Inteligente Amazon Echo Show 5 de 3ra Generación Negro",
+      "marca": "Amazon",
+      "modelo": "B09B2SBHQK",
+      "categoria": "hogar-inteligente",
+      "descripcion": "Pantalla inteligente de 5,5\" con Alexa para videollamadas, calendario y multimedia.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        },
+        {
+          "nombre": "Tamaño de pantalla",
+          "valor": "5.5\" pulgadas"
+        }
+      ],
+      "precio": 394000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/asistente-de-voz-amazon-alexa-echo-show-5-3rd-gen/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "hogar-inteligente/601109-asistente-de-voz-inteligente-amazon-echo-show-5-de-3ra-gener-1.webp",
+          "miniatura": "hogar-inteligente/601109-asistente-de-voz-inteligente-amazon-echo-show-5-de-3ra-gener-1-min.webp",
+          "ancho": 970,
+          "alto": 682,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/amaz-16.png"
+        },
+        {
+          "archivo": "hogar-inteligente/601109-asistente-de-voz-inteligente-amazon-echo-show-5-de-3ra-gener-2.webp",
+          "miniatura": "hogar-inteligente/601109-asistente-de-voz-inteligente-amazon-echo-show-5-de-3ra-gener-2-min.webp",
+          "ancho": 1045,
+          "alto": 578,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/amaz-4.png"
+        },
+        {
+          "archivo": "hogar-inteligente/601109-asistente-de-voz-inteligente-amazon-echo-show-5-de-3ra-gener-3.webp",
+          "miniatura": "hogar-inteligente/601109-asistente-de-voz-inteligente-amazon-echo-show-5-de-3ra-gener-3-min.webp",
+          "ancho": 718,
+          "alto": 871,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/amaz-2.png"
+        },
+        {
+          "archivo": "hogar-inteligente/601109-asistente-de-voz-inteligente-amazon-echo-show-5-de-3ra-gener-4.webp",
+          "miniatura": "hogar-inteligente/601109-asistente-de-voz-inteligente-amazon-echo-show-5-de-3ra-gener-4-min.webp",
+          "ancho": 1036,
+          "alto": 614,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/amaz-3.png"
+        }
+      ]
+    },
+    {
+      "sku": "601114",
+      "nombre": "Aspiradora Robot Xiaomi Vacuum H40 US",
+      "marca": "Xiaomi",
+      "modelo": "65470",
+      "categoria": "hogar-inteligente",
+      "descripcion": "Robot aspirador con batería de 5200 mAh y hasta 180 minutos de funcionamiento en condiciones de prueba.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Blanco"
+        }
+      ],
+      "precio": 1070000,
+      "precioAnterior": 1800000,
+      "disponible": true,
+      "destacado": true,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/aspiradora-robot-xiaomi-vacuum-h40-us/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "hogar-inteligente/601114-aspiradora-robot-xiaomi-vacuum-h40-us-1.webp",
+          "miniatura": "hogar-inteligente/601114-aspiradora-robot-xiaomi-vacuum-h40-us-1-min.webp",
+          "ancho": 842,
+          "alto": 813,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/w1200h1200fitpad-2026-11-18T085747.620.webp"
+        },
+        {
+          "archivo": "hogar-inteligente/601114-aspiradora-robot-xiaomi-vacuum-h40-us-2.webp",
+          "miniatura": "hogar-inteligente/601114-aspiradora-robot-xiaomi-vacuum-h40-us-2-min.webp",
+          "ancho": 926,
+          "alto": 810,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/w1200h1200fitpad-2026-11-18T085754.936.webp"
+        },
+        {
+          "archivo": "hogar-inteligente/601114-aspiradora-robot-xiaomi-vacuum-h40-us-3.webp",
+          "miniatura": "hogar-inteligente/601114-aspiradora-robot-xiaomi-vacuum-h40-us-3-min.webp",
+          "ancho": 906,
+          "alto": 648,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/w1200h1200fitpad-2026-11-18T085759.559.webp"
+        },
+        {
+          "archivo": "hogar-inteligente/601114-aspiradora-robot-xiaomi-vacuum-h40-us-4.webp",
+          "miniatura": "hogar-inteligente/601114-aspiradora-robot-xiaomi-vacuum-h40-us-4-min.webp",
+          "ancho": 860,
+          "alto": 865,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/w1200h1200fitpad-2026-11-18T085809.073.webp"
+        }
+      ]
+    },
+    {
+      "sku": "601105",
+      "nombre": "Freidora de Aire Xiaomi Mijia Smart Steam 7L",
+      "marca": "Xiaomi",
+      "modelo": "73367",
+      "categoria": "hogar-inteligente",
+      "descripcion": "Freidora de aire de 7 L y 1850 W: fríe, hornea, cocina al vapor, recalienta y deshidrata.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        }
+      ],
+      "precio": 625000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/freidora-de-aire-xiaomi-mijia-smart-steam-7l/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "hogar-inteligente/601105-freidora-de-aire-xiaomi-mijia-smart-steam-7l-1.webp",
+          "miniatura": "hogar-inteligente/601105-freidora-de-aire-xiaomi-mijia-smart-steam-7l-1-min.webp",
+          "ancho": 735,
+          "alto": 891,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/w1200h1200fitpad-2026-09-16T120546.204.webp"
+        },
+        {
+          "archivo": "hogar-inteligente/601105-freidora-de-aire-xiaomi-mijia-smart-steam-7l-2.webp",
+          "miniatura": "hogar-inteligente/601105-freidora-de-aire-xiaomi-mijia-smart-steam-7l-2-min.webp",
+          "ancho": 691,
+          "alto": 891,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/w1200h1200fitpad-2026-09-16T120604.393.webp"
+        },
+        {
+          "archivo": "hogar-inteligente/601105-freidora-de-aire-xiaomi-mijia-smart-steam-7l-3.webp",
+          "miniatura": "hogar-inteligente/601105-freidora-de-aire-xiaomi-mijia-smart-steam-7l-3-min.webp",
+          "ancho": 663,
+          "alto": 885,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/w1200h1200fitpad-2026-09-16T120611.203.webp"
+        },
+        {
+          "archivo": "hogar-inteligente/601105-freidora-de-aire-xiaomi-mijia-smart-steam-7l-4.webp",
+          "miniatura": "hogar-inteligente/601105-freidora-de-aire-xiaomi-mijia-smart-steam-7l-4-min.webp",
+          "ancho": 735,
+          "alto": 891,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/w1200h1200fitpad-2026-09-16T120607.323.webp"
+        }
+      ]
+    },
+    {
+      "sku": "601087",
+      "nombre": "Cámara de Seguridad TP-Link Tapo C202 Visión nocturna FHD",
+      "marca": "Tapo",
+      "modelo": "TAPO C202",
+      "categoria": "hogar-inteligente",
+      "descripcion": "Cámara de seguridad Full HD 1080p con visión nocturna para hogares y oficinas.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Blanco"
+        }
+      ],
+      "precio": 115000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/camara-de-seguridad-tp-link-tapo-c202-vision-nocturna-fhd/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "hogar-inteligente/601087-camara-de-seguridad-tp-link-tapo-c202-vision-nocturna-fhd-1.webp",
+          "miniatura": "hogar-inteligente/601087-camara-de-seguridad-tp-link-tapo-c202-vision-nocturna-fhd-1-min.webp",
+          "ancho": 351,
+          "alto": 514,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/06/01-1_normal_20240513182842d.jpg"
+        },
+        {
+          "archivo": "hogar-inteligente/601087-camara-de-seguridad-tp-link-tapo-c202-vision-nocturna-fhd-2.webp",
+          "miniatura": "hogar-inteligente/601087-camara-de-seguridad-tp-link-tapo-c202-vision-nocturna-fhd-2-min.webp",
+          "ancho": 351,
+          "alto": 529,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/06/01-3_normal_20240513182904o.jpg"
+        },
+        {
+          "archivo": "hogar-inteligente/601087-camara-de-seguridad-tp-link-tapo-c202-vision-nocturna-fhd-3.webp",
+          "miniatura": "hogar-inteligente/601087-camara-de-seguridad-tp-link-tapo-c202-vision-nocturna-fhd-3-min.webp",
+          "ancho": 352,
+          "alto": 521,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/06/01-2_normal_20240513182853t.jpg"
+        },
+        {
+          "archivo": "hogar-inteligente/601087-camara-de-seguridad-tp-link-tapo-c202-vision-nocturna-fhd-4.webp",
+          "miniatura": "hogar-inteligente/601087-camara-de-seguridad-tp-link-tapo-c202-vision-nocturna-fhd-4-min.webp",
+          "ancho": 1200,
+          "alto": 1200,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/06/image-7f289a413ddb48f5a00a73a66fce2980.webp"
+        }
+      ]
+    },
+    {
+      "sku": "601039",
+      "nombre": "Dispensador Inteligente de Alimento para Mascotas Wi-Fi NHA-P610 Nexxt Solutions",
+      "marca": "Nexxt Solutions",
+      "modelo": "NHA-P610",
+      "categoria": "hogar-inteligente",
+      "descripcion": "Dispensador de alimento Wi-Fi con cámara y micrófono para acompañar a tu mascota a distancia.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Blanco"
+        }
+      ],
+      "precio": 400000,
+      "precioAnterior": 620000,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/dispensador-inteligente-de-alimento-para-mascotas-wi-fi-nha-p610/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "hogar-inteligente/601039-dispensador-inteligente-de-alimento-para-mascotas-wi-fi-nha-1.webp",
+          "miniatura": "hogar-inteligente/601039-dispensador-inteligente-de-alimento-para-mascotas-wi-fi-nha-1-min.webp",
+          "ancho": 847,
+          "alto": 882,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2024/07/alimentador.png"
+        },
+        {
+          "archivo": "hogar-inteligente/601039-dispensador-inteligente-de-alimento-para-mascotas-wi-fi-nha-2.webp",
+          "miniatura": "hogar-inteligente/601039-dispensador-inteligente-de-alimento-para-mascotas-wi-fi-nha-2-min.webp",
+          "ancho": 1000,
+          "alto": 1000,
+          "fondo": "ambiente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2024/07/banners-carrusel-nha-p610_spa_2.jpg"
+        },
+        {
+          "archivo": "hogar-inteligente/601039-dispensador-inteligente-de-alimento-para-mascotas-wi-fi-nha-3.webp",
+          "miniatura": "hogar-inteligente/601039-dispensador-inteligente-de-alimento-para-mascotas-wi-fi-nha-3-min.webp",
+          "ancho": 1000,
+          "alto": 1000,
+          "fondo": "ambiente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2024/07/banners-carrusel-nha-p610_spa_3.jpg"
+        },
+        {
+          "archivo": "hogar-inteligente/601039-dispensador-inteligente-de-alimento-para-mascotas-wi-fi-nha-4.webp",
+          "miniatura": "hogar-inteligente/601039-dispensador-inteligente-de-alimento-para-mascotas-wi-fi-nha-4-min.webp",
+          "ancho": 1000,
+          "alto": 1000,
+          "fondo": "ambiente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2024/07/banners-carrusel-nha-p610_spa_4.jpg"
+        }
+      ]
+    },
+    {
+      "sku": "901005",
+      "nombre": "Consola Sony PlayStation 5 Slim Estándar 1 TB con Lector de Disco",
+      "marca": "Sony",
+      "modelo": "CF121151000049888",
+      "categoria": "gaming",
+      "descripcion": "Consola de 1 TB con lector Ultra HD Blu-ray y control DualSense con retroalimentación háptica.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Blanco"
+        }
+      ],
+      "precio": 3475000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": true,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/consola-sony-playstation-5-slim-estandar-1-tb-con-lector-de-disco/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "gaming/901005-consola-sony-playstation-5-slim-estandar-1-tb-con-lector-de-1.webp",
+          "miniatura": "gaming/901005-consola-sony-playstation-5-slim-estandar-1-tb-con-lector-de-1-min.webp",
+          "ancho": 986,
+          "alto": 819,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/Sony.png"
+        },
+        {
+          "archivo": "gaming/901005-consola-sony-playstation-5-slim-estandar-1-tb-con-lector-de-2.webp",
+          "miniatura": "gaming/901005-consola-sony-playstation-5-slim-estandar-1-tb-con-lector-de-2-min.webp",
+          "ancho": 354,
+          "alto": 835,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/Sony-2.png"
+        },
+        {
+          "archivo": "gaming/901005-consola-sony-playstation-5-slim-estandar-1-tb-con-lector-de-3.webp",
+          "miniatura": "gaming/901005-consola-sony-playstation-5-slim-estandar-1-tb-con-lector-de-3-min.webp",
+          "ancho": 1018,
+          "alto": 285,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/Sony-1.png"
+        }
+      ]
+    },
+    {
+      "sku": "101396",
+      "nombre": "Diadema Gamer Logitech G Pro X 2 Inalámbrica Negro",
+      "marca": "Logitech",
+      "modelo": "981-001262",
+      "categoria": "gaming",
+      "descripcion": "Diadema con tres conexiones: LIGHTSPEED 2.4 GHz, Bluetooth y cable de 3,5 mm. Micrófono desmontable.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        }
+      ],
+      "precio": 1145000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": true,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/diadema-gamer-logitech-g-pro-x-2-inalambrica-negro/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "gaming/101396-diadema-gamer-logitech-g-pro-x-2-inalambrica-negro-1.webp",
+          "miniatura": "gaming/101396-diadema-gamer-logitech-g-pro-x-2-inalambrica-negro-1-min.webp",
+          "ancho": 763,
+          "alto": 971,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/negro1.png"
+        },
+        {
+          "archivo": "gaming/101396-diadema-gamer-logitech-g-pro-x-2-inalambrica-negro-2.webp",
+          "miniatura": "gaming/101396-diadema-gamer-logitech-g-pro-x-2-inalambrica-negro-2-min.webp",
+          "ancho": 688,
+          "alto": 940,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/negro2-3.png"
+        },
+        {
+          "archivo": "gaming/101396-diadema-gamer-logitech-g-pro-x-2-inalambrica-negro-3.webp",
+          "miniatura": "gaming/101396-diadema-gamer-logitech-g-pro-x-2-inalambrica-negro-3-min.webp",
+          "ancho": 684,
+          "alto": 1004,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/negro3-1.png"
+        },
+        {
+          "archivo": "gaming/101396-diadema-gamer-logitech-g-pro-x-2-inalambrica-negro-4.webp",
+          "miniatura": "gaming/101396-diadema-gamer-logitech-g-pro-x-2-inalambrica-negro-4-min.webp",
+          "ancho": 940,
+          "alto": 721,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/w1200h1200fitpad-75.webp"
+        }
+      ]
+    },
+    {
+      "sku": "101399",
+      "nombre": "Diadema Gaming Pc Hyperx Stinger 2 Inalámbrica Color Negro",
+      "marca": "Hp",
+      "modelo": "676A2AA",
+      "categoria": "gaming",
+      "descripcion": "Diadema inalámbrica de 2.4 GHz y baja latencia con micrófono con cancelación de ruido.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        }
+      ],
+      "precio": 387000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/diadema-gaming-pc-hyperx-stinger-2-inalambrica-color-negro/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "gaming/101399-diadema-gaming-pc-hyperx-stinger-2-inalambrica-color-negro-1.webp",
+          "miniatura": "gaming/101399-diadema-gaming-pc-hyperx-stinger-2-inalambrica-color-negro-1-min.webp",
+          "ancho": 1301,
+          "alto": 1305,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/hyperx_cloud_stinger_2_1_main.webp"
+        },
+        {
+          "archivo": "gaming/101399-diadema-gaming-pc-hyperx-stinger-2-inalambrica-color-negro-2.webp",
+          "miniatura": "gaming/101399-diadema-gaming-pc-hyperx-stinger-2-inalambrica-color-negro-2-min.webp",
+          "ancho": 1137,
+          "alto": 1363,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/hyperx_cloud_stinger_2_2_side.webp"
+        },
+        {
+          "archivo": "gaming/101399-diadema-gaming-pc-hyperx-stinger-2-inalambrica-color-negro-3.webp",
+          "miniatura": "gaming/101399-diadema-gaming-pc-hyperx-stinger-2-inalambrica-color-negro-3-min.webp",
+          "ancho": 697,
+          "alto": 1373,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/hyperx_cloud_stinger_2_6_mute.webp"
+        },
+        {
+          "archivo": "gaming/101399-diadema-gaming-pc-hyperx-stinger-2-inalambrica-color-negro-4.webp",
+          "miniatura": "gaming/101399-diadema-gaming-pc-hyperx-stinger-2-inalambrica-color-negro-4-min.webp",
+          "ancho": 1214,
+          "alto": 1339,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/hyperx_cloud_stinger_2_3_front.webp"
+        }
+      ]
+    },
+    {
+      "sku": "101400",
+      "nombre": "Mouse Gaming Hyperx Pulsefire Haste 2 Inalámbrico Blanco",
+      "marca": "Hp",
+      "modelo": "6N0B0AA",
+      "categoria": "gaming",
+      "descripcion": "Mouse inalámbrico con 2.4 GHz y Bluetooth, y hasta 100 horas de batería.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Blanco"
+        }
+      ],
+      "precio": 385000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/mouse-gaming-hyperx-pulsefire-haste-2-inalambrico-blanco/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "gaming/101400-mouse-gaming-hyperx-pulsefire-haste-2-inalambrico-blanco-1.webp",
+          "miniatura": "gaming/101400-mouse-gaming-hyperx-pulsefire-haste-2-inalambrico-blanco-1-min.webp",
+          "ancho": 485,
+          "alto": 909,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/Blanco1-2.png"
+        },
+        {
+          "archivo": "gaming/101400-mouse-gaming-hyperx-pulsefire-haste-2-inalambrico-blanco-2.webp",
+          "miniatura": "gaming/101400-mouse-gaming-hyperx-pulsefire-haste-2-inalambrico-blanco-2-min.webp",
+          "ancho": 817,
+          "alto": 588,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/Blanco3.png"
+        },
+        {
+          "archivo": "gaming/101400-mouse-gaming-hyperx-pulsefire-haste-2-inalambrico-blanco-3.webp",
+          "miniatura": "gaming/101400-mouse-gaming-hyperx-pulsefire-haste-2-inalambrico-blanco-3-min.webp",
+          "ancho": 994,
+          "alto": 294,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/Blanco4.png"
+        },
+        {
+          "archivo": "gaming/101400-mouse-gaming-hyperx-pulsefire-haste-2-inalambrico-blanco-4.webp",
+          "miniatura": "gaming/101400-mouse-gaming-hyperx-pulsefire-haste-2-inalambrico-blanco-4-min.webp",
+          "ancho": 482,
+          "alto": 919,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/Blanco2-2.png"
+        }
+      ]
+    },
+    {
+      "sku": "101180",
+      "nombre": "Mouse Gamer Logitech G203 Lightsync Blanco",
+      "marca": "Logitech",
+      "modelo": "910-005791",
+      "categoria": "gaming",
+      "descripcion": "Mouse con sensor óptico de 8000 DPI, seis botones programables e iluminación RGB LIGHTSYNC.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Blanco"
+        }
+      ],
+      "precio": 100000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/logitech-g203-lightsync-gaming-mouse/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "gaming/101180-mouse-gamer-logitech-g203-lightsync-blanco-1.webp",
+          "miniatura": "gaming/101180-mouse-gamer-logitech-g203-lightsync-blanco-1-min.webp",
+          "ancho": 495,
+          "alto": 1093,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2024/10/blanco1.png"
+        },
+        {
+          "archivo": "gaming/101180-mouse-gamer-logitech-g203-lightsync-blanco-2.webp",
+          "miniatura": "gaming/101180-mouse-gamer-logitech-g203-lightsync-blanco-2-min.webp",
+          "ancho": 797,
+          "alto": 836,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2024/10/blanco2-1.png"
+        },
+        {
+          "archivo": "gaming/101180-mouse-gamer-logitech-g203-lightsync-blanco-3.webp",
+          "miniatura": "gaming/101180-mouse-gamer-logitech-g203-lightsync-blanco-3-min.webp",
+          "ancho": 833,
+          "alto": 532,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2024/10/blanco2.png"
+        },
+        {
+          "archivo": "gaming/101180-mouse-gamer-logitech-g203-lightsync-blanco-4.webp",
+          "miniatura": "gaming/101180-mouse-gamer-logitech-g203-lightsync-blanco-4-min.webp",
+          "ancho": 491,
+          "alto": 1083,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2024/10/blanco1-1.png"
+        }
+      ]
+    },
+    {
+      "sku": "101385",
+      "nombre": "Silla Corsair Gamer T3 Rush Fabric Gris",
+      "marca": "Corsair",
+      "modelo": "CF-9010056-WW",
+      "categoria": "gaming",
+      "descripcion": "Silla en tela con respaldo reclinable de 90° a 160° y reposabrazos 4D.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Gris"
+        }
+      ],
+      "precio": 1230000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/silla-corsair-gaming-t3-rush-fabric-gris/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "gaming/101385-silla-corsair-gamer-t3-rush-fabric-gris-1.webp",
+          "miniatura": "gaming/101385-silla-corsair-gamer-t3-rush-fabric-gris-1-min.webp",
+          "ancho": 582,
+          "alto": 1119,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/gris1-negro.png"
+        },
+        {
+          "archivo": "gaming/101385-silla-corsair-gamer-t3-rush-fabric-gris-2.webp",
+          "miniatura": "gaming/101385-silla-corsair-gamer-t3-rush-fabric-gris-2-min.webp",
+          "ancho": 587,
+          "alto": 1091,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/gris4negro.png"
+        },
+        {
+          "archivo": "gaming/101385-silla-corsair-gamer-t3-rush-fabric-gris-3.webp",
+          "miniatura": "gaming/101385-silla-corsair-gamer-t3-rush-fabric-gris-3-min.webp",
+          "ancho": 860,
+          "alto": 1033,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/gris3negro.png"
+        },
+        {
+          "archivo": "gaming/101385-silla-corsair-gamer-t3-rush-fabric-gris-4.webp",
+          "miniatura": "gaming/101385-silla-corsair-gamer-t3-rush-fabric-gris-4-min.webp",
+          "ancho": 591,
+          "alto": 1115,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/gris2negro.png"
+        }
+      ]
+    },
+    {
+      "sku": "101490",
+      "nombre": "Silla Gamer Primus Thrónos 100T PCH-103BL Azul",
+      "marca": "Primus",
+      "modelo": "PCH-103BL",
+      "categoria": "gaming",
+      "descripcion": "Silla con respaldo reclinable hasta 135°, cojín lumbar y almohada.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Azul"
+        }
+      ],
+      "precio": 700000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/silla-gamer-primus-thronos-100t-pch-103bl-azul/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "gaming/101490-silla-gamer-primus-thronos-100t-pch-103bl-azul-1.webp",
+          "miniatura": "gaming/101490-silla-gamer-primus-thronos-100t-pch-103bl-azul-1-min.webp",
+          "ancho": 595,
+          "alto": 1147,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/Silla-gaming-Primus-azul-y-negra.png"
+        },
+        {
+          "archivo": "gaming/101490-silla-gamer-primus-thronos-100t-pch-103bl-azul-2.webp",
+          "miniatura": "gaming/101490-silla-gamer-primus-thronos-100t-pch-103bl-azul-2-min.webp",
+          "ancho": 680,
+          "alto": 1205,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/Silla-gamer-azul-PRIMUS.png"
+        },
+        {
+          "archivo": "gaming/101490-silla-gamer-primus-thronos-100t-pch-103bl-azul-3.webp",
+          "miniatura": "gaming/101490-silla-gamer-primus-thronos-100t-pch-103bl-azul-3-min.webp",
+          "ancho": 634,
+          "alto": 1177,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/Silla-gaming-Primus-azul-y-negra-1.png"
+        },
+        {
+          "archivo": "gaming/101490-silla-gamer-primus-thronos-100t-pch-103bl-azul-4.webp",
+          "miniatura": "gaming/101490-silla-gamer-primus-thronos-100t-pch-103bl-azul-4-min.webp",
+          "ancho": 617,
+          "alto": 1194,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/Silla-gaming-Primus-azul-con-logo-%CF%80.png"
+        }
+      ]
+    },
+    {
+      "sku": "101497",
+      "nombre": "Smartwatch Xiaomi Redmi 6 Active Naranja",
+      "marca": "Xiaomi",
+      "modelo": "78278",
+      "categoria": "accesorios",
+      "descripcion": "Reloj con frecuencia cardíaca, oxígeno en sangre y seguimiento del sueño, en naranja atardecer.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Naranja"
+        }
+      ],
+      "precio": 170000,
+      "precioAnterior": 299000,
+      "disponible": true,
+      "destacado": true,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/smartwatch-xiaomi-redmi-6-active-naranja/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "accesorios/101497-smartwatch-xiaomi-redmi-6-active-naranja-1.webp",
+          "miniatura": "accesorios/101497-smartwatch-xiaomi-redmi-6-active-naranja-1-min.webp",
+          "ancho": 925,
+          "alto": 1019,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/smartwatch-50.png"
+        },
+        {
+          "archivo": "accesorios/101497-smartwatch-xiaomi-redmi-6-active-naranja-2.webp",
+          "miniatura": "accesorios/101497-smartwatch-xiaomi-redmi-6-active-naranja-2-min.webp",
+          "ancho": 581,
+          "alto": 1011,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/smartwatch-49.png"
+        },
+        {
+          "archivo": "accesorios/101497-smartwatch-xiaomi-redmi-6-active-naranja-3.webp",
+          "miniatura": "accesorios/101497-smartwatch-xiaomi-redmi-6-active-naranja-3-min.webp",
+          "ancho": 954,
+          "alto": 1014,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/smartwatch-48.png"
+        },
+        {
+          "archivo": "accesorios/101497-smartwatch-xiaomi-redmi-6-active-naranja-4.webp",
+          "miniatura": "accesorios/101497-smartwatch-xiaomi-redmi-6-active-naranja-4-min.webp",
+          "ancho": 888,
+          "alto": 989,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/11/smartwatch-51.png"
+        }
+      ]
+    },
+    {
+      "sku": "101473",
+      "nombre": "Smartwatch Xiaomi Redmi 6 Lite Gris",
+      "marca": "Xiaomi",
+      "modelo": "78275",
+      "categoria": "accesorios",
+      "descripcion": "Reloj con llamadas Bluetooth, GNSS integrado y más de 150 modos deportivos.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Gris"
+        }
+      ],
+      "precio": 240000,
+      "precioAnterior": 299900,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/smartwatch-xiaomi-redmi-6-lite-gris/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "accesorios/101473-smartwatch-xiaomi-redmi-6-lite-gris-1.webp",
+          "miniatura": "accesorios/101473-smartwatch-xiaomi-redmi-6-lite-gris-1-min.webp",
+          "ancho": 957,
+          "alto": 1048,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/smartwatch-45.png"
+        },
+        {
+          "archivo": "accesorios/101473-smartwatch-xiaomi-redmi-6-lite-gris-2.webp",
+          "miniatura": "accesorios/101473-smartwatch-xiaomi-redmi-6-lite-gris-2-min.webp",
+          "ancho": 599,
+          "alto": 1044,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/smartwatch-46.png"
+        },
+        {
+          "archivo": "accesorios/101473-smartwatch-xiaomi-redmi-6-lite-gris-3.webp",
+          "miniatura": "accesorios/101473-smartwatch-xiaomi-redmi-6-lite-gris-3-min.webp",
+          "ancho": 923,
+          "alto": 1051,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/smartwatch-47.png"
+        },
+        {
+          "archivo": "accesorios/101473-smartwatch-xiaomi-redmi-6-lite-gris-4.webp",
+          "miniatura": "accesorios/101473-smartwatch-xiaomi-redmi-6-lite-gris-4-min.webp",
+          "ancho": 1200,
+          "alto": 1200,
+          "fondo": "ambiente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/w1200h1200fitpad-2026-10-09T162119.770.webp"
+        }
+      ]
+    },
+    {
+      "sku": "101440",
+      "nombre": "Smart Band Xiaomi 10 Pro Negro",
+      "marca": "Xiaomi",
+      "modelo": "73676",
+      "categoria": "accesorios",
+      "descripcion": "Banda inteligente ligera con estructura de aluminio y pantalla AMOLED.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        }
+      ],
+      "precio": 275000,
+      "precioAnterior": 386000,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/smart-band-xiaomi-10-pro-negro/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "accesorios/101440-smart-band-xiaomi-10-pro-negro-1.webp",
+          "miniatura": "accesorios/101440-smart-band-xiaomi-10-pro-negro-1-min.webp",
+          "ancho": 891,
+          "alto": 1069,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/smartwatch-23.png"
+        },
+        {
+          "archivo": "accesorios/101440-smart-band-xiaomi-10-pro-negro-2.webp",
+          "miniatura": "accesorios/101440-smart-band-xiaomi-10-pro-negro-2-min.webp",
+          "ancho": 466,
+          "alto": 1061,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/smartwatch-25.png"
+        },
+        {
+          "archivo": "accesorios/101440-smart-band-xiaomi-10-pro-negro-3.webp",
+          "miniatura": "accesorios/101440-smart-band-xiaomi-10-pro-negro-3-min.webp",
+          "ancho": 896,
+          "alto": 1075,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/smartwatch-24.png"
+        },
+        {
+          "archivo": "accesorios/101440-smart-band-xiaomi-10-pro-negro-4.webp",
+          "miniatura": "accesorios/101440-smart-band-xiaomi-10-pro-negro-4-min.webp",
+          "ancho": 944,
+          "alto": 830,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/smartwatch-26.png"
+        }
+      ]
+    },
+    {
+      "sku": "101365",
+      "nombre": "Audifonos JBL Live Buds 3 TWS Bluetooth Negro",
+      "marca": "JBL",
+      "modelo": "JBLLIVEBUDS3BLKAM",
+      "categoria": "accesorios",
+      "descripcion": "Audífonos True Wireless con JBL Signature Sound y JBL Spatial Sound.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        }
+      ],
+      "precio": 630000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": true,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/audifonos-jbl-live-buds-3-tws-bluetooth-negro/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "accesorios/101365-audifonos-jbl-live-buds-3-tws-bluetooth-negro-1.webp",
+          "miniatura": "accesorios/101365-audifonos-jbl-live-buds-3-tws-bluetooth-negro-1-min.webp",
+          "ancho": 755,
+          "alto": 676,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/05/image-26cf6211105541999ec9a54091724913.png"
+        },
+        {
+          "archivo": "accesorios/101365-audifonos-jbl-live-buds-3-tws-bluetooth-negro-2.webp",
+          "miniatura": "accesorios/101365-audifonos-jbl-live-buds-3-tws-bluetooth-negro-2-min.webp",
+          "ancho": 845,
+          "alto": 828,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/05/image-1827227bb8254a93ab74caeb3ca31351.png"
+        },
+        {
+          "archivo": "accesorios/101365-audifonos-jbl-live-buds-3-tws-bluetooth-negro-3.webp",
+          "miniatura": "accesorios/101365-audifonos-jbl-live-buds-3-tws-bluetooth-negro-3-min.webp",
+          "ancho": 841,
+          "alto": 241,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/05/image-d066f7917ead4aa9a7d720b656daae1a.png"
+        },
+        {
+          "archivo": "accesorios/101365-audifonos-jbl-live-buds-3-tws-bluetooth-negro-4.webp",
+          "miniatura": "accesorios/101365-audifonos-jbl-live-buds-3-tws-bluetooth-negro-4-min.webp",
+          "ancho": 843,
+          "alto": 711,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/05/image-05d9a57fdffe42e58b26257eaaf1de11.png"
+        }
+      ]
+    },
+    {
+      "sku": "101430",
+      "nombre": "Audífonos Xiaomi Redmi Buds 8 Negro",
+      "marca": "Xiaomi",
+      "modelo": "73457",
+      "categoria": "accesorios",
+      "descripcion": "Audífonos con Bluetooth 5.4, cancelación de ruido adaptativa y hasta 11 horas por carga.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        }
+      ],
+      "precio": 180000,
+      "precioAnterior": 299000,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/audifonos-xiaomi-redmi-buds-8-negro/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "accesorios/101430-audifonos-xiaomi-redmi-buds-8-negro-1.webp",
+          "miniatura": "accesorios/101430-audifonos-xiaomi-redmi-buds-8-negro-1-min.webp",
+          "ancho": 699,
+          "alto": 878,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/b1.png"
+        },
+        {
+          "archivo": "accesorios/101430-audifonos-xiaomi-redmi-buds-8-negro-2.webp",
+          "miniatura": "accesorios/101430-audifonos-xiaomi-redmi-buds-8-negro-2-min.webp",
+          "ancho": 626,
+          "alto": 857,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/b1-3.png"
+        },
+        {
+          "archivo": "accesorios/101430-audifonos-xiaomi-redmi-buds-8-negro-3.webp",
+          "miniatura": "accesorios/101430-audifonos-xiaomi-redmi-buds-8-negro-3-min.webp",
+          "ancho": 930,
+          "alto": 744,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/b1-1.png"
+        },
+        {
+          "archivo": "accesorios/101430-audifonos-xiaomi-redmi-buds-8-negro-4.webp",
+          "miniatura": "accesorios/101430-audifonos-xiaomi-redmi-buds-8-negro-4-min.webp",
+          "ancho": 486,
+          "alto": 697,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/09/b1-2.png"
+        }
+      ]
+    },
+    {
+      "sku": "101360",
+      "nombre": "Diadema JBL Tune 680NC Negro",
+      "marca": "JBL",
+      "modelo": "JBLT680NCBLKAM",
+      "categoria": "accesorios",
+      "descripcion": "Diadema inalámbrica con cancelación de ruido y JBL Pure Bass Sound.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        }
+      ],
+      "precio": 325000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/diadema-jbl-tune-680nc/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "accesorios/101360-diadema-jbl-tune-680nc-negro-1.webp",
+          "miniatura": "accesorios/101360-diadema-jbl-tune-680nc-negro-1-min.webp",
+          "ancho": 1148,
+          "alto": 1364,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/05/01.LS_JBL_Tune_680NC_Product_Image_Hero_Black.avif"
+        },
+        {
+          "archivo": "accesorios/101360-diadema-jbl-tune-680nc-negro-2.webp",
+          "miniatura": "accesorios/101360-diadema-jbl-tune-680nc-negro-2-min.webp",
+          "ancho": 223,
+          "alto": 456,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/05/05.LS_JBL_Tune_680NC_Product_Image_Detail_Black.avif"
+        },
+        {
+          "archivo": "accesorios/101360-diadema-jbl-tune-680nc-negro-3.webp",
+          "miniatura": "accesorios/101360-diadema-jbl-tune-680nc-negro-3-min.webp",
+          "ancho": 369,
+          "alto": 454,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/05/04.LS_JBL_Tune_680NC_Product_Image_Cushions_Black.avif"
+        },
+        {
+          "archivo": "accesorios/101360-diadema-jbl-tune-680nc-negro-4.webp",
+          "miniatura": "accesorios/101360-diadema-jbl-tune-680nc-negro-4-min.webp",
+          "ancho": 455,
+          "alto": 380,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/05/03.LS_JBL_Tune_680NC_Product_Image_Fold_Black.avif"
+        }
+      ]
+    },
+    {
+      "sku": "101307",
+      "nombre": "Parlante Inalámbrico JBL Bluetooth Flip 7 Negro",
+      "marca": "JBL",
+      "modelo": "JBLFLIP7BLKAM",
+      "categoria": "accesorios",
+      "descripcion": "Parlante portátil compacto con sonido JBL Pro para llevar a todas partes.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        }
+      ],
+      "precio": 450000,
+      "precioAnterior": 650000,
+      "disponible": true,
+      "destacado": true,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/parlante-inalambrico-jbl-bluetooth-flip-7-negro/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "accesorios/101307-parlante-inalambrico-jbl-bluetooth-flip-7-negro-1.webp",
+          "miniatura": "accesorios/101307-parlante-inalambrico-jbl-bluetooth-flip-7-negro-1-min.webp",
+          "ancho": 509,
+          "alto": 1363,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2025/06/JBL_FLIP_7_HERO_BLACK_060_x2-1.png"
+        },
+        {
+          "archivo": "accesorios/101307-parlante-inalambrico-jbl-bluetooth-flip-7-negro-2.webp",
+          "miniatura": "accesorios/101307-parlante-inalambrico-jbl-bluetooth-flip-7-negro-2-min.webp",
+          "ancho": 1360,
+          "alto": 517,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2025/06/JBL_FLIP_7_TOP_BLACK_192_x1.png"
+        },
+        {
+          "archivo": "accesorios/101307-parlante-inalambrico-jbl-bluetooth-flip-7-negro-3.webp",
+          "miniatura": "accesorios/101307-parlante-inalambrico-jbl-bluetooth-flip-7-negro-3-min.webp",
+          "ancho": 369,
+          "alto": 455,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2025/06/JBL_FLIP_7_HERO_BLACK_ACC_060_x2.png"
+        },
+        {
+          "archivo": "accesorios/101307-parlante-inalambrico-jbl-bluetooth-flip-7-negro-4.webp",
+          "miniatura": "accesorios/101307-parlante-inalambrico-jbl-bluetooth-flip-7-negro-4-min.webp",
+          "ancho": 518,
+          "alto": 1364,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2025/06/JBL_FLIP_7_BACK_BLACK_042_x1.png"
+        }
+      ]
+    },
+    {
+      "sku": "101349",
+      "nombre": "Parlante JBL Inalámbrico Bluetooth Go 5 Negro",
+      "marca": "JBL",
+      "modelo": "JBLGO5BLKAM",
+      "categoria": "accesorios",
+      "descripcion": "Parlante ultraportátil que cabe en la palma de la mano, con audio potente y claro.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        }
+      ],
+      "precio": 200000,
+      "precioAnterior": 280000,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/parlante-jbl-inalambrico-bluetooth-go5-negro/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "accesorios/101349-parlante-jbl-inalambrico-bluetooth-go-5-negro-1.webp",
+          "miniatura": "accesorios/101349-parlante-jbl-inalambrico-bluetooth-go-5-negro-1-min.webp",
+          "ancho": 446,
+          "alto": 290,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/04/LS_JBL_GO5_FRONT_BLACK_0016_x2.png"
+        },
+        {
+          "archivo": "accesorios/101349-parlante-jbl-inalambrico-bluetooth-go-5-negro-2.webp",
+          "miniatura": "accesorios/101349-parlante-jbl-inalambrico-bluetooth-go-5-negro-2-min.webp",
+          "ancho": 460,
+          "alto": 362,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/04/LS_JBL_GO5_HERO_BLACK_0007_x4.png"
+        },
+        {
+          "archivo": "accesorios/101349-parlante-jbl-inalambrico-bluetooth-go-5-negro-3.webp",
+          "miniatura": "accesorios/101349-parlante-jbl-inalambrico-bluetooth-go-5-negro-3-min.webp",
+          "ancho": 452,
+          "alto": 310,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/04/LS_JBL_GO5_3_4_LEFT_BLACK_0019-1_x2.png"
+        },
+        {
+          "archivo": "accesorios/101349-parlante-jbl-inalambrico-bluetooth-go-5-negro-4.webp",
+          "miniatura": "accesorios/101349-parlante-jbl-inalambrico-bluetooth-go-5-negro-4-min.webp",
+          "ancho": 231,
+          "alto": 450,
+          "fondo": "transparente",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/04/LS_JBL_GO5_RIGHT_BLACK_0041_x1.png"
+        }
+      ]
+    },
+    {
+      "sku": "101419",
+      "nombre": "Combo Teclado y Mouse Inalámbricos MK345 Logitech",
+      "marca": "Logitech",
+      "modelo": "920-007820",
+      "categoria": "accesorios",
+      "descripcion": "Combo inalámbrico: teclado de altura ajustable resistente a derrames y mouse contorneado.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        }
+      ],
+      "precio": 145000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/combo-teclado-y-mouse-inalambricos-mk345-logitech/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "accesorios/101419-combo-teclado-y-mouse-inalambricos-mk345-logitech-1.webp",
+          "miniatura": "accesorios/101419-combo-teclado-y-mouse-inalambricos-mk345-logitech-1-min.webp",
+          "ancho": 1146,
+          "alto": 390,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/teclado.png"
+        },
+        {
+          "archivo": "accesorios/101419-combo-teclado-y-mouse-inalambricos-mk345-logitech-2.webp",
+          "miniatura": "accesorios/101419-combo-teclado-y-mouse-inalambricos-mk345-logitech-2-min.webp",
+          "ancho": 1026,
+          "alto": 571,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/teclado-4.png"
+        },
+        {
+          "archivo": "accesorios/101419-combo-teclado-y-mouse-inalambricos-mk345-logitech-3.webp",
+          "miniatura": "accesorios/101419-combo-teclado-y-mouse-inalambricos-mk345-logitech-3-min.webp",
+          "ancho": 1164,
+          "alto": 523,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/teclado-3.png"
+        },
+        {
+          "archivo": "accesorios/101419-combo-teclado-y-mouse-inalambricos-mk345-logitech-4.webp",
+          "miniatura": "accesorios/101419-combo-teclado-y-mouse-inalambricos-mk345-logitech-4-min.webp",
+          "ancho": 1159,
+          "alto": 268,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/08/teclado-2.png"
+        }
+      ]
+    },
+    {
+      "sku": "101485",
+      "nombre": "Batería Power Bank Klip Xtreme PowerCell KPB-850 30.000mAh Carga Rápida 140W",
+      "marca": "Klip Xtreme",
+      "modelo": "KPB-850",
+      "categoria": "accesorios",
+      "descripcion": "Batería portátil de 30.000 mAh con carga rápida USB-C de 140 W y función Pass-Through.",
+      "lema": null,
+      "especificaciones": [
+        {
+          "nombre": "Color",
+          "valor": "Negro"
+        }
+      ],
+      "precio": 285000,
+      "precioAnterior": null,
+      "disponible": true,
+      "destacado": false,
+      "portada": null,
+      "urlOrigen": "https://infotechonline.co/producto/bateria-power-bank-klip-xtreme-powercell-kpb-850-30-000mah-carga-rapida-140w/",
+      "consultado": "2026-11-25T16:17:37.141Z",
+      "imagenes": [
+        {
+          "archivo": "accesorios/101485-bateria-power-bank-klip-xtreme-powercell-kpb-850-30-000mah-c-1.webp",
+          "miniatura": "accesorios/101485-bateria-power-bank-klip-xtreme-powercell-kpb-850-30-000mah-c-1-min.webp",
+          "ancho": 646,
+          "alto": 965,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/w1200h1200fitpad-2026-10-26T104056.212.webp"
+        },
+        {
+          "archivo": "accesorios/101485-bateria-power-bank-klip-xtreme-powercell-kpb-850-30-000mah-c-2.webp",
+          "miniatura": "accesorios/101485-bateria-power-bank-klip-xtreme-powercell-kpb-850-30-000mah-c-2-min.webp",
+          "ancho": 664,
+          "alto": 1035,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/w1200h1200fitpad-2026-10-26T104143.177.webp"
+        },
+        {
+          "archivo": "accesorios/101485-bateria-power-bank-klip-xtreme-powercell-kpb-850-30-000mah-c-3.webp",
+          "miniatura": "accesorios/101485-bateria-power-bank-klip-xtreme-powercell-kpb-850-30-000mah-c-3-min.webp",
+          "ancho": 693,
+          "alto": 998,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/w1200h1200fitpad-2026-10-26T104147.188.webp"
+        },
+        {
+          "archivo": "accesorios/101485-bateria-power-bank-klip-xtreme-powercell-kpb-850-30-000mah-c-4.webp",
+          "miniatura": "accesorios/101485-bateria-power-bank-klip-xtreme-powercell-kpb-850-30-000mah-c-4-min.webp",
+          "ancho": 1134,
+          "alto": 979,
+          "fondo": "blanco",
+          "origen": "https://infotechonline.co/wp-content/uploads/2026/10/w1200h1200fitpad-2026-10-26T104059.791.webp"
+        }
+      ]
+    }
+  ]
+}

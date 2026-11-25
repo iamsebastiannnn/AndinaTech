@@ -21,7 +21,7 @@ interface HeaderProps {
 
 function SessionIndicator({ status, user }: Pick<HeaderProps, 'status' | 'user'>) {
   if (status === 'loading') {
-    return <ActivityIndicator size="small" color={colors.onPrimary} accessibilityLabel="Comprobando sesión" />;
+    return <ActivityIndicator size="small" color={colors.primary} accessibilityLabel="Comprobando sesión" />;
   }
   if (status === 'authenticated' && user) {
     return (
@@ -35,7 +35,7 @@ function SessionIndicator({ status, user }: Pick<HeaderProps, 'status' | 'user'>
   }
   return (
     <View style={styles.guest} accessible accessibilityLabel="Sin sesión: navegas como invitado">
-      <Ionicons name="person-outline" size={14} color={colors.onPrimary} />
+      <Ionicons name="person-outline" size={14} color={colors.ink} />
       <Text style={styles.guestText}>Invitado</Text>
     </View>
   );
@@ -49,12 +49,12 @@ export function Header({ status, user, isMenuOpen, onOpenMenu, topInset = 0, nav
           icon="menu"
           accessibilityLabel={isMenuOpen ? 'Cerrar menú' : 'Abrir menú'}
           onPress={onOpenMenu}
-          color={colors.onPrimary}
+          color={colors.ink}
           size={26}
         />
         <Link href="/" asChild>
           <Pressable accessibilityRole="link" accessibilityLabel="Andina Tech & Hogar: ir al catálogo" style={styles.brand}>
-            <Logo tone="onPrimary" />
+            <Logo />
           </Pressable>
         </Link>
         <View style={styles.navigation}>{navigation}</View>
@@ -65,7 +65,7 @@ export function Header({ status, user, isMenuOpen, onOpenMenu, topInset = 0, nav
 }
 
 const styles = StyleSheet.create({
-  bar: { backgroundColor: colors.primary },
+  bar: { backgroundColor: colors.background, borderBottomWidth: 1, borderBottomColor: colors.border },
   content: {
     height: layout.headerHeight,
     width: '100%',
@@ -80,7 +80,7 @@ const styles = StyleSheet.create({
   brand: { flexShrink: 1, minHeight: layout.minTouchSize, justifyContent: 'center' },
   navigation: { flex: 1, alignItems: 'flex-end', minWidth: 0 },
   session: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm, maxWidth: 150 },
-  sessionName: { color: colors.onPrimary, fontSize: 14, fontWeight: '600', flexShrink: 1 },
+  sessionName: { color: colors.ink, fontSize: 14, fontWeight: '600', flexShrink: 1 },
   guest: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -89,7 +89,8 @@ const styles = StyleSheet.create({
     paddingVertical: spacing.xs + 2,
     borderRadius: radius.pill,
     borderWidth: 1,
-    borderColor: 'rgba(255,255,255,0.35)',
+    borderColor: colors.border,
+    backgroundColor: colors.surface,
   },
-  guestText: { color: colors.onPrimary, fontSize: 13, fontWeight: '600' },
+  guestText: { color: colors.ink, fontSize: 13, fontWeight: '600' },
 });

@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
     borderColor: colors.border,
     backgroundColor: colors.surface,
   },
-  selected: { backgroundColor: colors.primary, borderColor: colors.primary },
+  selected: { backgroundColor: colors.ink, borderColor: colors.ink },
   pressed: { opacity: 0.8 },
   label: { fontSize: 14, fontWeight: '600', color: colors.text },
   labelSelected: { color: colors.onPrimary },
