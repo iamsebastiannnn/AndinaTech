@@ -75,8 +75,8 @@ export function HamburgerMenu({ visible, onClose, items, pathname, user, onSelec
           accessibilityLabel="Menú principal"
         >
           <View style={styles.panelHeader}>
-            <Logo />
-            <IconButton icon="close" accessibilityLabel="Cerrar menú" onPress={onClose} color={colors.textMuted} />
+            <Logo size={28} />
+            <IconButton icon="close" accessibilityLabel="Cerrar menú" onPress={onClose} color={colors.onInk} />
           </View>
 
           <View style={styles.session}>
@@ -150,6 +150,7 @@ const styles = StyleSheet.create({
     backgroundColor: colors.surface,
   },
   panelHeader: {
+    backgroundColor: colors.ink,
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',

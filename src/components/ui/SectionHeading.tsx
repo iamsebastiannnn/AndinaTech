@@ -25,7 +25,7 @@ export function SectionHeading({ eyebrow, title, description, tone = 'default' }
 const styles = StyleSheet.create({
   container: { gap: spacing.xs + 2, maxWidth: 620 },
   eyebrow: { ...typography.eyebrow, color: colors.accent },
-  eyebrowOnInk: { color: '#FF9A6B' },
+  eyebrowOnInk: { color: colors.gold },
   title: { ...typography.title },
   titleOnInk: { color: colors.onInk },
   description: { ...typography.bodyMuted },

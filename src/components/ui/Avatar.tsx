@@ -15,10 +15,10 @@ export function Avatar({ name, size = 36, tone = 'soft' }: AvatarProps) {
     <View
       style={[
         styles.circle,
-        { width: size, height: size, backgroundColor: onPrimary ? colors.ink : colors.primarySoft },
+        { width: size, height: size, backgroundColor: onPrimary ? colors.gold : colors.primarySoft },
       ]}
     >
-      <Text style={[styles.initial, { fontSize: size * 0.44, color: onPrimary ? colors.onAccent : colors.primary }]}>
+      <Text style={[styles.initial, { fontSize: size * 0.44, color: onPrimary ? colors.ink : colors.primary }]}>
         {getInitial(name)}
       </Text>
     </View>

@@ -11,10 +11,8 @@
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#0F4C5C",
-        "foregroundImage": "./assets/android-icon-foreground.png",
-        "backgroundImage": "./assets/android-icon-background.png",
-        "monochromeImage": "./assets/android-icon-monochrome.png"
+        "backgroundColor": "#0B1F25",
+        "foregroundImage": "./assets/android-icon-foreground.png"
       },
       "predictiveBackGestureEnabled": false
     },
@@ -25,8 +23,8 @@
       "name": "Andina Tech & Hogar",
       "shortName": "Andina",
       "lang": "es",
-      "themeColor": "#0F4C5C",
-      "backgroundColor": "#F4F7F8",
+      "themeColor": "#0B1F25",
+      "backgroundColor": "#F3F2EE",
       "description": "Distribuidora colombiana de tecnología y hogar"
     },
     "plugins": [

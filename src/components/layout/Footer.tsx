@@ -1,5 +1,6 @@
 import { StyleSheet, Text, View } from 'react-native';
 
+import { Logo } from '@/components/ui/Logo';
 import { APP_CONFIG } from '@/config/app';
 import { colors, layout, spacing } from '@/theme';
 
@@ -9,7 +10,7 @@ export function Footer() {
   return (
     <View style={styles.bar} accessibilityRole="summary">
       <View style={styles.content}>
-        <Text style={styles.company}>{APP_CONFIG.companyName}</Text>
+        <Logo variant="full" size={76} />
         <Text style={styles.text}>
           <Text style={styles.strong}>Desarrollado por: </Text>
           {APP_CONFIG.team.join(' · ')}
@@ -33,9 +34,8 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
     paddingHorizontal: spacing.lg,
     paddingVertical: spacing.lg,
-    gap: spacing.xs,
+    gap: spacing.sm,
   },
-  company: { color: colors.onPrimary, fontSize: 14, fontWeight: '700' },
   text: { color: colors.onPrimaryMuted, fontSize: 12, lineHeight: 17 },
   strong: { fontWeight: '700' },
 });

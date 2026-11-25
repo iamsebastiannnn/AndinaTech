@@ -11,8 +11,10 @@ export const colors = {
   onInk: '#FFFFFF',
   onInkMuted: '#A9B8BC',
 
-  accent: '#D9480F',
-  accentSoft: '#FBE6DB',
+  accent: '#A8650F',
+  accentSoft: '#F7EBD3',
+  gold: '#E4B24A',
+  cream: '#F5EDE0',
   onAccent: '#FFFFFF',
 
   background: '#F3F2EE',
