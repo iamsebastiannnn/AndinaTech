@@ -76,6 +76,14 @@ export function useCatalog() {
     [products, categoryId, query],
   );
 
+  const brands = useMemo(
+    () =>
+      Array.from(new Set(products.map((product) => product.brand).filter((brand): brand is string => Boolean(brand)))).sort(
+        (a, b) => a.localeCompare(b, 'es'),
+      ),
+    [products],
+  );
+
   const bySlug = useCallback(
     (slug: string) => products.filter((product) => product.categorySlug === slug),
     [products],
@@ -98,6 +106,7 @@ export function useCatalog() {
     categories: summaries,
     heroes,
     featured,
+    brands,
     bySlug,
     isLoading,
     error,

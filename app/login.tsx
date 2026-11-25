@@ -4,6 +4,7 @@ import { StyleSheet, View } from 'react-native';
 
 import { AuthCard } from '@/components/auth/AuthCard';
 import { AuthSwitchLink } from '@/components/auth/AuthSwitchLink';
+import { SocialSignIn } from '@/components/auth/SocialSignIn';
 import { Button } from '@/components/ui/Button';
 import { Notice } from '@/components/ui/Notice';
 import { TextField, type TextFieldRef } from '@/components/ui/TextField';
@@ -68,6 +69,7 @@ export default function LoginScreen() {
         onPress={form.submit}
         loading={form.isSubmitting}
       />
+      <SocialSignIn mode="login" disabled={form.isSubmitting} />
       <AuthSwitchLink question="¿Aún no tienes cuenta?" linkLabel="Regístrate" href="/register" />
     </AuthCard>
   );

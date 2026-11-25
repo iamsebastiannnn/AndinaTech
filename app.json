@@ -31,7 +31,8 @@
       "expo-router",
       "expo-status-bar",
       "expo-image",
-      "expo-font"
+      "expo-font",
+      "expo-web-browser"
     ],
     "scheme": "andinatech",
     "experiments": {

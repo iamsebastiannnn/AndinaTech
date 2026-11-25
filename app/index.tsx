@@ -1,6 +1,7 @@
 import { useCallback, useRef } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
+import { BrandCarousel } from '@/components/products/BrandCarousel';
 import { CatalogToolbar } from '@/components/products/CatalogToolbar';
 import { CategoryTiles } from '@/components/products/CategoryTiles';
 import { EditorialBand } from '@/components/products/EditorialBand';
@@ -158,6 +159,17 @@ export default function CatalogScreen() {
                   wide={isDesktop}
                 />
               ) : null}
+            </Reveal>
+          ) : null}
+
+          {catalog.brands.length > 0 ? (
+            <Reveal contentStyle={styles.section}>
+              <SectionHeading
+                eyebrow="Marcas"
+                title="Las marcas de nuestro catálogo"
+                description="Fabricantes presentes en los productos que publicamos."
+              />
+              <BrandCarousel brands={catalog.brands} />
             </Reveal>
           ) : null}
         </>
